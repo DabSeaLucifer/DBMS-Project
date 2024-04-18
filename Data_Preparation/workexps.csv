@@ -1,0 +1,2528 @@
+Com_ID,WE_Role,WE_Salary,Duration
+26542,Insurance Broker,5472300,6
+75639,Systems Engineer,1939700,9
+67443,IT Consultant,2498300,4
+47262,Research Coordinator,8432300,5
+15701,Financial Analyst,3000200,2
+5857,Medical Assistant,8480300,6
+50242,Operations Coordinator,1961200,2
+27839,IT Manager,8256700,2
+92591,Human Resources Manager,4492300,10
+38390,SEO Specialist,8270800,5
+38562,Operations Analyst,4426800,3
+73496,Real Estate Agent,6225500,2
+23704,Research Assistant,9749400,2
+3515,Content Writer,5833400,3
+46487,Market Research Assistant,1671000,1
+30442,Business Development Executive,2080300,9
+99274,Product Owner,8986000,1
+87206,Architect,757500,8
+81035,IT Technician,1686900,5
+50497,Electrical Engineer,5310600,5
+86964,Product Manager,3822600,5
+58073,Construction Manager,4025600,5
+39786,Operations Coordinator,4977000,8
+58073,Market Analyst,365400,4
+85039,Tax Preparer,1172200,10
+83817,Systems Administrator,8634200,2
+65952,Operations Manager,1997200,9
+41113,Compliance Officer,3249100,1
+23704,Content Writer,5833400,10
+74665,Social Media Coordinator,5615400,10
+86112,Nurse Practitioner,8818100,10
+11153,User Interface Designer,1925300,10
+19056,Social Media Specialist,7353900,4
+11273,Human Resources Manager,9483500,10
+58073,Medical Assistant,7277300,9
+15701,Business Operations Manager,9917200,6
+24846,Financial Auditor,1592100,2
+96236,Sales Representative,2240900,8
+86480,Marketing Assistant,2403300,9
+74121,Retail Manager,1879300,2
+698,Research Scientist,4998500,6
+75068,Business Systems Analyst,2991600,4
+83429,Data Scientist,8021900,8
+33344,Digital Content Creator,9377000,10
+11273,Financial Analyst,3144600,1
+61786,Medical Assistant,7277300,4
+46361,Database Administrator,2879500,2
+65952,IT Technician,2317100,4
+45319,Speech-Language Pathologist,3786200,10
+4960,Tax Accountant,9827800,1
+73536,Business Development Manager,4725800,3
+91834,Systems Administrator,7141800,4
+30168,Legal Secretary,1927900,4
+92591,Sales Manager,8556400,2
+13005,Customer Success Manager,6075100,10
+2563,Technical Support Specialist,3367500,10
+96236,Nurse Practitioner,5213900,9
+39786,Cybersecurity Analyst,7040800,6
+17641,Business Analyst,625200,6
+73122,Brand Strategist,152000,6
+69081,Quality Control Inspector,4254500,4
+57319,Project Manager,2152300,3
+72200,Market Research Manager,1154200,6
+23704,Cybersecurity Analyst,695000,4
+90216,Product Marketing Manager,4819300,8
+66809,Medical Technologist,7017800,8
+10576,Electrical Engineer,5310600,2
+20821,Software Engineer,1054800,6
+70357,Administrative Assistant,3085200,2
+21466,Supply Chain Analyst,5906600,4
+57047,Legal Assistant,5118200,2
+94019,Legal Secretary,7611000,10
+54580,Healthcare Administrator,3894000,8
+27611,Marketing Assistant,5408200,2
+65826,Network Administrator,5373900,3
+50242,Legal Researcher,8042300,9
+68386,Graphic Designer,2286000,7
+49332,Product Marketing Manager,8568200,1
+13250,Mechanical Technician,903600,7
+29863,Accountant,5729800,6
+99149,Executive Assistant,8875100,6
+90931,Public Relations Manager,9624500,7
+7581,Financial Advisor,5669000,4
+37092,Technical Writer,7937300,1
+73496,Financial Controller,1267000,9
+12839,Medical Office Manager,9196500,4
+30980,Network Engineer,9301800,4
+58073,Multimedia Artist,5481600,4
+96422,Social Media Specialist,2191200,10
+50372,Data Analyst,4759500,5
+61310,Mechanical Technician,6581000,9
+13250,Construction Manager,4025600,2
+37092,Interior Designer,8478600,7
+45744,Network Technician,2497600,10
+21577,Systems Engineer,4702700,2
+60146,Market Research Assistant,5384200,7
+64293,Medical Assistant,8717600,10
+46487,IT Support Specialist,1950900,1
+86112,IT Analyst,4820100,1
+14519,Research Scientist,499800,9
+81035,Technical Writer,6352400,7
+72421,Network Analyst,3644200,7
+28350,Project Coordinator,5627200,8
+71576,Business Development Manager,9793600,2
+34197,Lawyer,464000,1
+11922,Digital Marketing Specialist,5920000,4
+88826,Graphic Designer,534700,1
+10576,Business Development Coordinator,172500,4
+83429,HR Generalist,5255800,9
+95439,Research Scientist,2507700,6
+90020,Public Relations Specialist,8239000,6
+73122,Web Developer,5556800,3
+12839,Lawyer,5718200,10
+65952,Business Development Manager,7370800,6
+99820,Sales Associate,6433500,6
+53452,Registered Nurse,6125600,1
+73122,Data Analyst,3266800,2
+24444,Financial Analyst,3144600,7
+41113,HR Assistant,1703700,8
+30168,Architect,757500,10
+35871,Financial Risk Analyst,4636700,1
+74665,Project Manager,2152300,10
+75639,Supply Chain Manager,449400,8
+42492,Systems Engineer,1939700,6
+2325,Web Developer,9526000,5
+51383,Healthcare Administrator,6040500,5
+82991,User Experience Researcher,3263400,5
+55811,Medical Billing Specialist,8306400,5
+41113,Systems Analyst,6666700,3
+96422,Investment Advisor,8520800,5
+3117,Supply Chain Coordinator,2949900,3
+90931,Marketing Analyst,5934900,2
+87255,Legal Secretary,5643300,6
+34554,Quality Control Inspector,5245400,2
+30849,Data Entry Specialist,1429400,7
+73076,Social Media Specialist,9165700,5
+67443,IT Manager,2804100,4
+61419,Medical Records Clerk,457000,9
+17641,Operations Manager,203700,1
+24444,Customer Experience Manager,1252800,8
+26542,Product Owner,6975600,5
+57319,UX Designer,8202600,6
+38390,Recruiting Coordinator,8078700,6
+47377,SEO Specialist,7505900,7
+34554,Network Technician,2497600,1
+38802,Administrative Assistant,3638800,10
+33314,Brand Strategist,442900,10
+56583,IT Project Manager,9604900,2
+57319,Tax Accountant,9827800,4
+45102,HR Coordinator,8154700,8
+78012,IT Analyst,4820100,8
+698,Legal Researcher,6073100,10
+24485,Systems Analyst,6666700,7
+11153,Product Owner,8967600,6
+96422,Sales Manager,7695700,5
+90931,Account Manager,8432400,3
+10552,Medical Laboratory Technician,5130000,1
+78341,Medical Billing Specialist,5298200,10
+16959,Lawyer,5718200,5
+61786,Accountant,774300,4
+17641,Market Research Assistant,5278700,1
+97781,Marketing Analyst,8998700,8
+19787,Interior Designer,5913700,4
+85039,Financial Analyst,5583400,7
+65906,Cybersecurity Analyst,4913000,2
+51383,Quality Control Inspector,6255600,7
+57319,Marketing Analyst,5934900,3
+16977,Operations Analyst,8095200,1
+78858,Digital Content Creator,9883100,2
+51497,Systems Administrator,8267000,4
+61310,Medical Billing Specialist,6943200,9
+71576,IT Consultant,5093700,2
+55811,Market Analyst,365400,4
+90216,IT Consultant,2498300,1
+17649,Network Security Engineer,7257200,5
+13250,Sales Coordinator,2025000,4
+16977,Environmental Scientist,1119300,2
+33344,Legal Secretary,4683200,10
+11922,Operations Manager,4341800,8
+14519,Dental Assistant,7006600,1
+38562,Interior Decorator,4897800,5
+7912,Research Assistant,9749400,6
+49332,IT Manager,9892500,2
+71313,Occupational Therapist Assistant,9859600,5
+84822,Marketing Assistant,474700,10
+16365,Market Research Assistant,8490300,2
+94859,Business Consultant,1106900,4
+18927,Medical Records Clerk,7654600,1
+29425,HR Generalist,5255800,1
+60146,Systems Engineer,2690800,3
+30168,SEO Specialist,9401400,1
+70357,IT Consultant,6382600,1
+26542,Interior Decorator,5146200,1
+27384,Software Developer,735900,8
+47262,Medical Laboratory Technician,5130000,3
+96978,Project Coordinator,5627200,1
+65906,Purchasing Manager,7866700,5
+39178,Environmental Engineer,4654900,8
+24444,Systems Administrator,9746100,4
+12839,Marketing Director,4129400,3
+73568,Medical Records Clerk,457000,3
+42492,Social Media Coordinator,5615400,4
+18927,Physician Assistant,3895600,2
+40616,Health Educator,145400,10
+36114,HR Generalist,9713000,6
+51056,Technical Support Specialist,7853600,7
+74121,UI/UX Developer,3057600,2
+33344,Medical Office Manager,9196500,8
+3291,Supply Chain Manager,4129500,5
+78858,Physician Assistant,3895600,5
+91834,Business Development Executive,5289800,6
+66809,Medical Laboratory Technician,5130000,2
+36732,Architect,411400,3
+62748,Medical Technologist,7017800,4
+14519,Health Educator,4350100,7
+99820,Systems Engineer,2690800,8
+59703,IT Auditor,3362200,1
+41113,Business Systems Analyst,943200,10
+90216,Data Entry Specialist,1033900,1
+23595,Lawyer,5638800,8
+24846,Medical Billing Specialist,7964500,9
+33340,Real Estate Agent,6225500,1
+90935,Accountant,774300,8
+11273,Operations Manager,8947500,7
+55952,Physician Assistant,7564400,6
+47377,IT Security Specialist,7634700,9
+40616,Sales Manager,6754700,7
+61310,Multimedia Artist,7680100,1
+46487,Legal Researcher,8042300,4
+46361,Web Developer,2471900,9
+19787,Systems Administrator,4799000,7
+18347,Insurance Claims Adjuster,773500,4
+86964,Market Research Analyst,2832800,6
+16959,Occupational Therapist,9208500,10
+45319,IT Manager,2706400,8
+4960,HR Coordinator,8992400,2
+78189,Compliance Officer,571400,5
+61151,Systems Analyst,6666700,6
+96580,Compliance Officer,679600,5
+47377,Financial Analyst,5583400,10
+87183,Production Supervisor,6683100,8
+33314,Data Entry Specialist,1769200,3
+30168,Supply Chain Specialist,8024200,10
+17649,HR Assistant,7645500,8
+89144,Market Analyst,365400,1
+96088,Project Coordinator,1635200,6
+67443,Copywriter,6277500,4
+32233,IT Specialist,7831800,4
+5857,Brand Strategist,849900,4
+43152,IT Security Analyst,1761400,9
+69081,Environmental Engineer,4905100,9
+39178,Research Coordinator,8432300,7
+90935,Network Security Engineer,4687800,8
+68372,Project Coordinator,5439000,6
+78341,Quality Control Inspector,6255600,4
+10576,Event Manager,805500,6
+10576,Medical Assistant,8717600,7
+6544,Marketing Coordinator,7932800,3
+65906,Web Developer,8752000,10
+88826,Speech-Language Pathologist,3786200,10
+3291,Insurance Claims Adjuster,530700,8
+48827,Talent Acquisition Specialist,117400,6
+26800,Mechanical Engineer,5202800,3
+69081,Brand Manager,4085700,6
+26542,Operations Supervisor,5418200,4
+73568,Legal Assistant,8036200,7
+6544,Occupational Health and Safety Specialist,7282900,4
+61151,Marketing Director,6225200,2
+78607,Database Administrator,2879500,9
+41536,Legal Secretary,8994100,6
+53452,Network Analyst,3644200,2
+57319,Logistics Coordinator,5382400,1
+65906,Business Systems Analyst,5115800,4
+19056,Event Manager,805500,4
+47262,UI/UX Developer,3057600,10
+87206,Environmental Scientist,1119300,1
+65952,HR Director,8772200,6
+3117,Business Development Coordinator,695600,2
+94019,Content Manager,4422900,9
+85039,HR Coordinator,8154700,9
+61508,Occupational Therapist,6570600,10
+39178,Content Manager,5773000,7
+95439,Technical Writer,9845400,2
+72421,Speech-Language Pathologist,972700,1
+36732,HR Specialist,6087900,6
+24444,Legal Researcher,3728900,8
+85039,Electrician,2199400,5
+58073,Content Writer,5200100,2
+33424,HR Generalist,6218600,7
+2325,Accountant,5216500,2
+59703,Content Writer,5200100,8
+51497,Financial Risk Analyst,6433500,1
+13224,Public Relations Manager,8060900,8
+69486,User Experience Researcher,3263400,1
+74121,Financial Analyst,5583400,1
+21466,Project Coordinator,5439000,7
+10552,Financial Manager,6164800,10
+38562,Financial Auditor,9056800,7
+34554,Teacher,5391700,8
+14519,Health Educator,6594000,3
+33956,Digital Content Creator,8778300,4
+94859,IT Consultant,5093700,1
+34103,Product Owner,8070600,8
+30273,Data Entry Specialist,7421300,7
+50372,Business Development Executive,2091800,6
+74665,Network Administrator,2129400,2
+69486,Brand Strategist,7977100,3
+24846,Marketing Assistant,5862100,8
+85993,Physician Assistant,9765000,4
+91834,Financial Clerk,4082100,4
+96580,Dental Assistant,2424600,9
+45102,Dental Assistant,7006600,1
+61508,Network Analyst,3644200,10
+54580,Systems Engineer,5082700,1
+73536,Financial Analyst,8453900,4
+45744,Retail Manager,2573300,6
+65906,Data Analyst,7679000,2
+5807,HR Assistant,7645500,10
+27611,Sales Associate,6578300,10
+18347,Marketing Specialist,2279800,7
+92703,Environmental Engineer,4905100,6
+74091,Financial Clerk,5878800,9
+23704,IT Consultant,8232000,7
+74627,Financial Analyst,2203000,2
+73536,Investment Analyst,4778900,5
+3117,Customer Success Manager,6075100,6
+34554,IT Project Manager,2659700,4
+74627,User Experience Researcher,4777500,10
+61310,Customer Support Specialist,2671700,8
+74121,Business Development Coordinator,695600,7
+86812,Insurance Broker,2247000,9
+61310,Health Educator,7562600,8
+61419,Market Research Analyst,4713200,7
+74121,Business Systems Analyst,597700,1
+27839,Market Analyst,365400,4
+78607,Legal Assistant,8036200,2
+99149,Financial Analyst,3144600,4
+21541,Physical Therapist,8702600,10
+96422,Insurance Broker,6369600,6
+69668,Interior Decorator,4897800,9
+74121,Data Entry Specialist,1429400,7
+34197,Operations Coordinator,1961200,1
+43152,Customer Experience Manager,5617200,9
+13729,Market Research Manager,3362900,8
+24846,Account Coordinator,6487500,3
+66809,Speech-Language Pathologist,3786200,8
+15701,Business Development Coordinator,6463400,2
+36732,Executive Assistant,5757000,7
+96580,Accountant,5729800,9
+57047,Technical Writer,472900,9
+16959,Systems Administrator,8267000,5
+17649,Human Resources Manager,4492300,5
+4361,Architect,3319600,7
+83427,Market Research Assistant,5278700,2
+35871,Compliance Officer,8184100,4
+90020,Corporate Trainer,2923300,5
+27384,Physical Therapist,8702600,2
+4960,Operations Manager,4341800,6
+16977,Business Analyst,625200,6
+55952,Data Analyst,3988100,3
+96422,Business Operations Manager,5039900,4
+33340,Operations Supervisor,9048700,4
+30849,Database Administrator,3881400,1
+95439,Regulatory Affairs Specialist,9270600,5
+21466,Supply Chain Analyst,7607600,1
+55952,Construction Manager,1597500,9
+92703,HR Coordinator,8154700,6
+18927,Speech-Language Pathologist,8881300,9
+68372,SEO Specialist,8270800,9
+99149,Financial Advisor,5491100,2
+17641,Compliance Officer,2788500,2
+42699,Market Research Assistant,9054400,10
+17641,Market Research Assistant,9241100,3
+3291,Investment Banker,4423600,8
+36878,Event Planner,2651600,8
+47377,Operations Supervisor,3620000,4
+27611,Business Operations Manager,5039900,4
+89144,IT Administrator,9601500,7
+38390,Database Administrator,3881400,10
+76953,Public Relations Specialist,6273900,5
+56583,Digital Marketing Coordinator,4915400,10
+74665,Marketing Manager,5806900,6
+6544,HR Specialist,6087900,4
+36878,Sales Coordinator,9865900,7
+51497,Human Resources Manager,3228900,8
+89144,Database Administrator,7504000,1
+42492,Network Analyst,3644200,10
+7895,Marketing Assistant,9734800,1
+11153,Interior Designer,9069700,10
+33424,Systems Analyst,1646700,10
+51497,Occupational Therapist Assistant,4148200,9
+48827,Electrician,5414700,2
+3724,Dental Assistant,7006600,2
+51056,Dental Assistant,2679500,9
+7895,Project Coordinator,5439000,4
+24444,Product Owner,6975600,1
+86459,Brand Strategist,7977100,10
+83817,Executive Assistant,5757000,9
+99149,Talent Manager,8788500,3
+36732,Market Research Analyst,2832800,7
+90931,Health Educator,6594000,8
+72200,Business Development Executive,169000,8
+72421,Market Research Analyst,4749400,1
+33223,IT Manager,4202400,5
+3291,Business Analyst,5552100,6
+67360,IT Security Specialist,7634700,3
+74121,Multimedia Artist,7680100,10
+54580,Database Administrator,5808200,8
+27839,Registered Nurse,5237700,3
+65952,IT Administrator,6375500,5
+57319,Supply Chain Manager,4932600,8
+90216,Event Coordinator,2150900,4
+45744,HR Recruiter,7346400,2
+18927,Insurance Claims Adjuster,773500,4
+49332,User Experience Researcher,4041600,9
+47262,Technical Writer,7937300,4
+36114,Physician Assistant,3895600,7
+27839,HR Director,7040100,5
+14519,Environmental Engineer,3210100,3
+3515,Speech-Language Pathologist,259600,4
+61419,Business Consultant,7556700,5
+39786,Medical Technologist,2751900,5
+19056,Marketing Director,113700,5
+59703,Software Developer,8276500,1
+10552,Financial Analyst,7037600,4
+83427,Customer Success Manager,3312500,3
+85039,Administrative Assistant,6519500,4
+67443,IT Specialist,7831800,6
+5857,Digital Marketing Coordinator,4915400,8
+11153,Sales Manager,6754700,6
+3117,Tax Preparer,5424800,5
+33344,Architect,3319600,6
+73496,Talent Manager,899200,7
+69668,Business Consultant,8135200,10
+3724,Research Assistant,4376000,10
+72421,Medical Assistant,170900,6
+55811,Customer Experience Manager,1252800,4
+29425,HR Specialist,1460500,10
+86812,Customer Experience Manager,189300,7
+30273,Investment Analyst,5887000,4
+50372,Customer Experience Manager,7493200,10
+94859,Financial Risk Analyst,6433500,4
+23595,Event Planner,213100,3
+83427,Environmental Scientist,3458000,5
+30442,Market Research Analyst,4713200,1
+16365,Recruiting Coordinator,1973800,5
+85993,Event Planner,5347800,8
+4960,Cybersecurity Analyst,7254500,7
+85932,Lawyer,6759000,7
+53630,Software Engineer,7505500,6
+61508,Civil Engineer,1944700,6
+2563,Technical Writer,7937300,2
+27839,Insurance Broker,9024900,1
+86812,Public Relations Coordinator,7088900,2
+72421,Event Planner,460500,6
+24444,Customer Support Specialist,2671700,8
+60146,Digital Marketing Manager,2001600,9
+45744,HR Manager,4670300,3
+36114,Supply Chain Manager,490900,3
+67443,Business Consultant,1106900,10
+30849,Cybersecurity Engineer,2111800,1
+96088,Business Development Executive,413700,3
+11153,Medical Records Clerk,457000,1
+99149,Content Manager,4664200,2
+65826,Network Administrator,2129400,9
+96978,Corporate Trainer,3563300,8
+90931,Investment Banker,9499900,7
+45744,Teacher,3856700,10
+24485,Logistics Manager,3675400,6
+36114,Network Security Engineer,267000,5
+30273,Corporate Trainer,3563300,2
+69668,Research Assistant,7941000,4
+3515,Business Operations Manager,5618400,7
+28350,Legal Researcher,8042300,4
+33223,Digital Marketing Coordinator,1708200,9
+92029,Interior Designer,8478600,10
+45319,Insurance Broker,5461300,8
+34197,Real Estate Agent,3065900,3
+10576,Technical Support Engineer,5632800,9
+11273,Legal Secretary,4683200,3
+5857,Brand Strategist,7977100,3
+99149,Mechanical Technician,6581000,1
+65952,Medical Laboratory Technician,8523500,4
+42492,Operations Analyst,6314000,6
+96978,Healthcare Administrator,3408700,8
+6544,Talent Acquisition Specialist,6303600,1
+30980,Network Analyst,3644200,9
+94019,Sales Representative,2240900,6
+73076,Business Development Coordinator,9287900,2
+37092,Marketing Assistant,5408200,3
+13224,Research Coordinator,6571200,9
+99274,Biomedical Engineer,7788300,3
+17641,Business Operations Manager,8045100,2
+46487,Environmental Scientist,3458000,6
+92029,Retail Manager,1879300,6
+78012,Logistics Manager,867500,10
+23704,Medical Records Clerk,457000,1
+24485,Registered Nurse,4459300,4
+71576,Digital Marketing Coordinator,2482800,4
+53630,Business Development Manager,3794500,7
+96236,IT Technician,916400,6
+92703,Marketing Assistant,2346000,10
+41536,IT Support Specialist,729800,10
+50372,Social Worker,5376300,3
+30442,IT Manager,7079100,8
+23704,Software Engineer,7505500,9
+96236,Research Coordinator,8432300,6
+83429,IT Specialist,2272900,8
+71576,Data Analyst,8216400,2
+45744,Market Research Manager,2588500,7
+33223,Research Scientist,688500,2
+40287,Graphic Designer,1295100,10
+91834,Quality Assurance Engineer,8814600,4
+86480,Dental Assistant,3797000,4
+91834,Dental Assistant,2679500,1
+49332,Legal Researcher,5936200,9
+40287,Financial Manager,6164800,6
+4361,Human Resources Manager,7885800,6
+50372,Research Scientist,3314800,9
+81035,Talent Acquisition Specialist,118600,8
+53473,IT Support Specialist,1950900,9
+87183,Pharmacist,3974200,6
+53473,Pharmacist,2474600,4
+65906,Research Coordinator,6571200,8
+18347,Network Analyst,8671100,10
+74091,Financial Auditor,9056800,3
+33956,Insurance Claims Adjuster,773500,3
+85993,Accountant,774300,3
+4361,Marketing Specialist,4962900,7
+71313,Electrical Engineer,4418800,9
+75639,Occupational Health and Safety Specialist,8019700,1
+66809,Digital Marketing Specialist,8551800,6
+20821,Business Development Executive,8882500,8
+10552,IT Security Specialist,7634700,1
+3724,Product Marketing Manager,7441200,9
+78189,Systems Engineer,4702700,3
+72421,Event Coordinator,2119300,6
+23704,Real Estate Agent,3065900,4
+49332,Event Manager,4451400,3
+53630,Operations Supervisor,5418200,1
+94859,HR Manager,1055000,1
+33344,Technical Writer,7004900,3
+30849,Project Manager,2552400,5
+96088,Health Educator,4350100,1
+75639,Software Engineer,7741900,5
+21714,Network Security Engineer,4687800,10
+18927,Pharmacist,3974200,5
+68386,Graphic Artist,3487600,2
+96580,Public Relations Specialist,890700,3
+95439,Brand Strategist,6809200,2
+27384,Business Operations Manager,8045100,10
+82991,Business Development Manager,7370800,3
+39178,Interior Designer,8478600,9
+18347,Occupational Therapist,568100,8
+45723,Content Manager,5773000,5
+33314,Graphic Designer,1295100,6
+55811,Human Resources Manager,3228900,2
+61419,Physical Therapist,8300900,5
+45319,IT Project Manager,9604900,8
+65952,Market Research Assistant,5384200,3
+53630,Corporate Trainer,1613600,1
+57319,Quality Assurance Engineer,9005800,1
+46361,HR Coordinator,5955500,4
+6544,Business Development Manager,5721800,4
+33344,Digital Marketing Specialist,6946900,9
+75068,Social Worker,5643800,7
+26542,Administrative Assistant,8327000,5
+698,Accountant,774300,7
+64293,Business Analyst,7870900,10
+30273,Legal Researcher,3503700,2
+19056,Marketing Assistant,9734800,4
+53473,Business Systems Analyst,8417400,5
+81035,Construction Manager,417600,1
+72200,Pharmacist,3974200,6
+13250,HR Director,1541300,1
+17649,IT Technician,2317100,1
+36114,Financial Advisor,5669000,1
+73536,Administrative Assistant,6519500,5
+39786,Quality Control Inspector,9993600,6
+53473,Registered Nurse,5825100,5
+36114,Digital Marketing Manager,5054700,5
+12839,Administrative Assistant,4173000,4
+95439,Tax Preparer,1172200,8
+24485,SEO Specialist,8355600,6
+96236,IT Analyst,4820100,9
+92703,Research Scientist,3314800,7
+36114,Logistics Coordinator,5815500,7
+50497,Digital Marketing Manager,8549700,4
+21714,Electrician,5414700,1
+86964,Account Manager,8432400,5
+75639,Software Engineer,6936900,5
+33424,Financial Controller,1267000,2
+90216,User Experience Researcher,3263400,7
+61508,Project Coordinator,5439000,1
+83817,HR Coordinator,8992400,10
+21714,Occupational Therapist,6570600,3
+48947,Electrician,6717000,5
+42699,SEO Specialist,8355600,2
+29425,Operations Manager,8947500,5
+10552,Business Development Manager,5721800,6
+3291,IT Project Manager,2659700,7
+65906,Content Writer,2437700,7
+74627,Technical Writer,7004900,5
+6544,Multimedia Artist,9743300,5
+61419,Network Analyst,4623500,6
+69668,HR Generalist,6860600,9
+30849,UI/UX Developer,1801400,1
+6544,Supply Chain Analyst,8769100,6
+27611,Product Owner,6975600,6
+24846,Operations Analyst,8095200,1
+38562,Social Worker,5643800,4
+61508,Marketing Communications Manager,7275600,6
+34197,Data Analyst,3988100,5
+58073,Legal Secretary,2183400,8
+96236,Compliance Officer,3249100,8
+27611,Legal Researcher,4938000,3
+73536,Business Consultant,1106900,9
+59703,Digital Content Creator,9377000,8
+36878,Sales Representative,7871700,4
+698,Operations Manager,3024600,10
+99274,Software Developer,8276500,1
+53452,IT Consultant,2498300,2
+40311,Civil Engineer,1944700,1
+51383,Public Relations Manager,9624500,7
+39786,Market Research Analyst,2832800,4
+2563,Web Developer,4849900,5
+30168,Occupational Therapist Assistant,9859600,2
+83817,Physician Assistant,9765000,6
+13250,Web Developer,4849900,5
+56583,Operations Coordinator,1961200,4
+84822,Quality Assurance Engineer,5095400,7
+61310,IT Technician,2317100,4
+30442,Financial Analyst,3144600,5
+23704,Logistics Manager,9881500,3
+82991,Financial Risk Analyst,4636700,4
+37092,Corporate Trainer,3563300,7
+57047,Data Entry Specialist,1429400,1
+5807,Legal Secretary,2183400,4
+61419,HR Director,6838500,2
+21714,Research Assistant,9749400,7
+13250,Civil Engineer,6074500,5
+36732,Speech-Language Pathologist,972700,8
+53452,IT Project Manager,9604900,6
+70357,Supply Chain Coordinator,6324900,1
+37092,Network Analyst,215200,5
+94859,Electrician,2199400,5
+59703,Environmental Scientist,6808700,2
+30849,Occupational Health and Safety Specialist,1156600,3
+30980,Legal Assistant,3869100,4
+87183,Business Development Coordinator,2868400,6
+92029,Executive Assistant,7817100,2
+73076,Data Scientist,8175500,9
+7895,Data Analyst,4767400,9
+42699,Technical Support Engineer,826800,6
+13250,Logistics Coordinator,8550200,1
+83817,Human Resources Manager,7885800,5
+30849,Teacher,9522800,7
+39786,HR Specialist,6087900,7
+30273,Registered Nurse,6125600,4
+30442,Customer Experience Manager,5617200,7
+95439,Customer Service Representative,4328600,8
+74665,Customer Experience Manager,1252800,1
+13005,Legal Secretary,4683200,10
+76953,Marketing Director,6225200,1
+30273,Market Research Assistant,5384200,10
+78858,Investment Analyst,4566500,6
+14519,Customer Experience Manager,7493200,8
+50497,Compliance Officer,3938500,6
+10552,Investment Analyst,4778900,3
+78858,Database Administrator,2713700,7
+33344,Operations Supervisor,5418200,1
+33223,Production Supervisor,2531500,2
+5857,Content Writer,2437700,2
+85932,Dental Assistant,7006600,6
+3724,Event Manager,8916600,1
+94859,Business Systems Analyst,2452500,8
+82991,Operations Manager,3024600,1
+7581,Operations Analyst,2240100,7
+78607,Physical Therapist,8702600,4
+86812,Occupational Therapist,5620700,4
+72200,Project Coordinator,4994900,8
+17641,Accountant,5906100,7
+39786,Legal Secretary,7611000,1
+34197,Occupational Therapist Assistant,4148200,10
+45723,Market Research Assistant,9848600,6
+75068,Environmental Engineer,4654900,8
+11153,Legal Secretary,8551300,1
+57047,Marketing Analyst,5934900,8
+87255,Brand Strategist,152000,6
+33424,Legal Secretary,6640000,10
+12839,HR Generalist,6860600,9
+45744,Talent Acquisition Specialist,118600,7
+85039,Technical Support Engineer,3508700,10
+30849,Purchasing Manager,4253600,5
+47377,Software Engineer,6936900,7
+68372,Event Coordinator,9523900,10
+4960,HR Recruiter,7710500,8
+40616,Financial Planner,7519600,10
+3515,Technical Writer,7937300,6
+6544,Market Research Manager,2588500,5
+83429,Sales Support Specialist,562200,9
+92591,Software Developer,735900,5
+21541,Financial Analyst,2203000,2
+55811,Interior Designer,8478600,4
+15701,Construction Manager,417600,1
+48827,Sales Coordinator,1772000,3
+69668,Network Security Engineer,7257200,5
+33956,Product Manager,3822600,8
+96978,Tax Preparer,508400,4
+48947,Real Estate Agent,6894100,1
+51497,Public Relations Specialist,6273900,4
+50242,Digital Content Creator,8778300,7
+36114,HR Director,7040100,3
+50242,Human Resources Manager,3228900,5
+19787,Financial Risk Analyst,4636700,3
+50497,Executive Assistant,5757000,9
+99274,Retail Manager,8462400,2
+16977,Mechanical Technician,6581000,5
+3291,User Experience Researcher,3263400,6
+50242,Social Media Manager,954800,10
+48827,Architect,3569800,6
+67360,IT Analyst,3433700,5
+94019,Physical Therapy Assistant,9581300,5
+27384,Executive Assistant,8007700,8
+26800,Project Coordinator,1635200,10
+42699,Market Analyst,7756200,7
+29425,Medical Records Clerk,7654600,6
+36732,IT Manager,7079100,5
+41536,Software Tester,6675600,1
+92703,Product Marketing Manager,7441200,4
+78607,Health Educator,4350100,8
+65906,Business Development Manager,9793600,9
+28350,Medical Records Clerk,3334500,1
+78341,Cybersecurity Analyst,6419400,7
+57319,Insurance Underwriter,1575300,6
+698,Medical Billing Specialist,8306400,9
+73076,Business Development Executive,9213800,1
+7912,Financial Risk Analyst,6433500,1
+74121,IT Manager,7079100,5
+26800,Software Tester,346300,3
+48947,IT Manager,2894600,2
+78858,HR Director,9643500,7
+58073,Marketing Coordinator,7932800,6
+80204,Data Analyst,6409100,2
+11922,Talent Acquisition Specialist,4471700,10
+38802,Nurse Practitioner,4573800,1
+21577,Insurance Agent,2913900,2
+51056,Data Entry Specialist,1033900,7
+44043,Financial Advisor,6441800,2
+41536,Dental Assistant,2304600,5
+86480,IT Consultant,8232000,4
+13083,Database Administrator,2879500,2
+7895,Data Scientist,7366400,1
+3515,Technical Support Engineer,3508700,7
+20821,Dental Assistant,1360900,1
+99820,Marketing Communications Manager,7969500,2
+69081,Business Systems Analyst,597700,9
+64293,Market Research Manager,1480800,8
+41536,Business Development Manager,7370800,6
+698,IT Specialist,7831800,5
+36878,Business Development Manager,1018800,8
+7581,Customer Experience Manager,6233000,1
+45102,Dental Assistant,1360900,9
+65826,Teacher,4511300,3
+67360,Event Coordinator,8393100,6
+7912,Product Marketing Manager,4819300,1
+46361,Multimedia Artist,1788400,3
+86964,Customer Service Representative,4328600,9
+68372,Customer Experience Manager,5617200,4
+35871,Medical Assistant,8717600,8
+65906,Speech-Language Pathologist,3786200,4
+18927,Market Research Assistant,5278700,3
+99820,Tax Preparer,7650800,8
+76953,Financial Advisor,6441800,9
+3291,Event Coordinator,9523900,5
+45319,IT Specialist,5461300,9
+86459,Corporate Trainer,4778100,9
+7912,Dental Assistant,7006600,1
+20821,Environmental Scientist,1070400,8
+74091,Talent Manager,4583300,3
+7895,Financial Analyst,5169400,10
+48947,Account Coordinator,8282700,6
+57047,Business Development Manager,7370800,4
+96978,Occupational Therapist,9208500,7
+38802,Occupational Therapist,5620700,1
+75068,Digital Marketing Manager,6566100,4
+67443,Logistics Coordinator,5382400,2
+80204,UI/UX Developer,6921400,1
+7895,Graphic Artist,3487600,9
+96422,Executive Assistant,8007700,9
+11273,Insurance Claims Adjuster,9096700,8
+3724,Financial Advisor,3065300,4
+73536,Financial Advisor,6441800,8
+16959,Legal Secretary,6640000,6
+21541,Market Research Assistant,5384200,2
+34103,Marketing Coordinator,8773100,4
+55952,Data Entry Specialist,1429400,10
+48155,Medical Billing Specialist,6549400,8
+95439,Medical Assistant,5617400,10
+48827,HR Recruiter,5451900,8
+17649,Medical Billing Specialist,6549400,2
+96088,Health Educator,6594000,10
+34554,Financial Clerk,8718600,7
+34197,Talent Manager,7539300,3
+21541,Insurance Underwriter,9437400,1
+50497,Regulatory Affairs Specialist,8362800,5
+43152,Operations Analyst,6314000,1
+74665,Digital Content Creator,9377000,9
+14519,Interior Designer,8238800,7
+13224,Electrical Engineer,5310600,9
+7912,Talent Acquisition Specialist,117400,7
+47262,IT Security Specialist,7820800,6
+2563,Market Research Assistant,2195100,9
+51497,Human Resources Manager,5184300,8
+30442,Event Manager,4451400,10
+51056,Content Writer,2995300,1
+24444,Legal Researcher,3728900,10
+64293,Financial Analyst,3000200,10
+19787,Financial Controller,5553200,1
+17641,Web Developer,8752000,9
+33424,Market Research Analyst,5979500,10
+34197,Registered Nurse,6801200,4
+78189,Physician Assistant,9765000,10
+42699,IT Manager,2706400,2
+11922,Network Engineer,9301800,10
+73536,Business Analyst,7870900,8
+51497,Product Marketing Manager,6799400,7
+47262,IT Administrator,3730500,10
+60146,Environmental Scientist,6808700,6
+72421,Data Analyst,3988100,1
+2325,HR Coordinator,8154700,10
+70357,Insurance Broker,9024900,2
+90931,Technical Writer,6352400,8
+68372,Interior Decorator,4897800,10
+78858,Financial Clerk,5878800,10
+61151,Healthcare Administrator,3894000,6
+74627,Market Research Analyst,2832800,9
+73536,Sales Associate,6578300,4
+78189,Logistics Manager,9881500,1
+45744,Administrative Assistant,3085200,8
+30442,Social Media Coordinator,5615400,8
+35871,IT Security Specialist,7378500,6
+27384,Occupational Therapist,5620700,2
+38390,Insurance Agent,7594800,7
+80204,Interior Decorator,4481400,9
+48947,Corporate Trainer,2923300,7
+65952,Regulatory Affairs Specialist,8362800,4
+73496,Investment Banker,9499900,4
+5857,Customer Success Manager,6342700,3
+92703,Content Manager,8911400,2
+90931,HR Recruiter,8285400,1
+71576,Environmental Engineer,3210100,4
+91834,Web Developer,5591800,4
+67360,Architect,757500,5
+85039,Digital Marketing Manager,537300,2
+4361,Marketing Director,4129400,2
+45319,Digital Marketing Manager,8549700,7
+74121,Product Owner,8121600,3
+86964,Supply Chain Coordinator,8565400,6
+59703,Data Scientist,7366400,1
+33223,Database Administrator,7504000,3
+40311,Environmental Scientist,8334400,9
+50242,Dental Assistant,4323600,6
+86964,Accountant,5523100,3
+33344,Medical Assistant,170900,4
+96088,Technical Writer,1988300,8
+92591,Legal Secretary,2183400,3
+86459,Nurse Practitioner,5213900,6
+86459,Recruiting Coordinator,6851500,4
+45319,Recruitment Specialist,1756400,10
+60146,Research Assistant,3112500,2
+38390,Systems Engineer,1939700,1
+86459,Sales Support Specialist,5478700,1
+21466,Marketing Specialist,2279800,3
+56583,Legal Secretary,9408800,5
+67360,Cybersecurity Engineer,9244800,5
+85993,Environmental Engineer,9672000,5
+84822,Human Resources Manager,4492300,6
+15701,Interior Decorator,5146200,8
+34554,Legal Secretary,6640000,2
+35871,Production Supervisor,2531500,8
+34554,Dental Hygienist,5844400,3
+24485,Digital Marketing Specialist,8551800,2
+3724,Event Coordinator,2119300,5
+92591,Real Estate Agent,4757900,4
+87183,Business Consultant,8135200,1
+30273,Event Planner,3842500,4
+55811,Recruiting Coordinator,6851500,1
+86480,Market Research Assistant,1671000,5
+99820,Network Analyst,8671100,8
+30442,Digital Marketing Coordinator,4375600,3
+47377,HR Manager,1055000,3
+10552,HR Coordinator,2232300,3
+45723,Logistics Coordinator,5815500,10
+88826,Mechanical Technician,903600,4
+45319,Data Entry Specialist,1033900,9
+90931,SEO Specialist,8355600,3
+14519,Environmental Scientist,1074800,1
+36114,Health Educator,6594000,10
+40311,IT Administrator,9601500,10
+64293,Mechanical Engineer,2988600,2
+47262,Product Manager,3822600,6
+6544,Registered Nurse,4459300,2
+33424,Tax Preparer,1172200,4
+50242,Business Development Coordinator,9287900,5
+86459,Financial Auditor,1592100,5
+2325,Recruiting Coordinator,1973800,10
+92591,Insurance Underwriter,576700,8
+68386,Business Development Coordinator,6463400,7
+72421,IT Consultant,6382000,6
+66809,Mechanical Technician,361700,3
+33340,SEO Specialist,7505900,6
+61310,IT Project Manager,6916400,3
+13224,Network Engineer,6271500,8
+18927,Investment Analyst,4566500,10
+75068,Data Analyst,6409100,3
+86480,Business Development Coordinator,695600,10
+59703,Financial Analyst,2203000,9
+87206,Medical Laboratory Technician,8523500,6
+11922,Brand Manager,9078300,7
+86480,Mechanical Technician,903600,2
+74665,Software Engineer,6594600,7
+53630,Public Relations Coordinator,3154400,6
+65952,Market Research Manager,5311700,3
+56583,Construction Manager,1597500,5
+50242,Marketing Assistant,2346000,6
+68372,Health Educator,4350100,8
+51056,IT Manager,2804100,8
+88826,Brand Strategist,6077700,1
+73122,Legal Analyst,9619200,4
+96422,Technical Support Specialist,2528300,9
+38802,Account Coordinator,6487500,8
+73536,Marketing Analyst,7553600,2
+33424,Network Analyst,319900,1
+20821,Marketing Director,4129400,3
+96088,IT Specialist,2272900,8
+16959,Human Resources Manager,9483500,1
+78012,Dental Assistant,2679500,9
+83429,Insurance Broker,5472300,6
+90931,Network Security Engineer,7798200,4
+30442,Health Educator,7562600,5
+24485,Public Relations Coordinator,2276700,10
+96088,Research Coordinator,8432300,5
+54580,Operations Manager,1997200,3
+27839,Cybersecurity Engineer,5904800,7
+86480,Supply Chain Coordinator,6324900,3
+74121,Public Relations Manager,1469000,10
+34554,Market Research Analyst,7524300,10
+96236,Cybersecurity Analyst,6419400,2
+67443,Web Developer,5591800,2
+82991,HR Recruiter,8285400,6
+78858,Executive Assistant,7817100,10
+64293,HR Generalist,2151000,1
+75639,Medical Records Clerk,457000,10
+97781,Data Entry Specialist,1769200,10
+67443,Occupational Therapist,8390600,2
+62748,Insurance Broker,1156100,4
+19787,Interior Designer,8238800,9
+40287,Pharmacist,6163300,4
+49332,Production Supervisor,4184500,3
+19787,Database Administrator,2713700,3
+61419,HR Specialist,6087900,10
+34554,Brand Strategist,6612200,6
+56583,Speech-Language Pathologist,4423400,9
+45723,Technical Writer,1988300,2
+46487,Supply Chain Specialist,8024200,1
+69668,Legal Analyst,9619200,7
+5857,Product Owner,8598400,2
+47377,Interior Designer,8238800,1
+49332,IT Manager,2706400,7
+45723,HR Assistant,9783100,5
+45723,Operations Manager,8947500,5
+87206,Health Educator,4350100,3
+10552,Interior Decorator,5146200,7
+74121,Market Research Assistant,1671000,9
+51383,Insurance Underwriter,576700,4
+12839,Project Coordinator,4994900,5
+96580,Event Planner,5347800,9
+51383,Financial Planner,3954500,4
+49332,Operations Coordinator,6669200,3
+87206,Research Assistant,7941000,7
+23595,Project Coordinator,1635200,2
+69486,Customer Success Manager,6091800,3
+90020,Executive Assistant,4726800,3
+20821,Corporate Trainer,4778100,2
+50242,Public Relations Manager,4017500,5
+88826,Technical Writer,7937300,8
+13250,Sales Support Specialist,5478700,3
+87183,Medical Billing Specialist,9364000,6
+78341,Occupational Health and Safety Specialist,4490900,10
+24485,IT Consultant,5093700,2
+58073,Cybersecurity Engineer,6585700,9
+39786,Data Scientist,3908500,8
+15701,Legal Analyst,6564400,3
+94859,Research Scientist,5849200,7
+61310,Medical Billing Specialist,3970100,4
+78858,Project Coordinator,1635200,1
+13083,Regulatory Affairs Specialist,5392400,3
+94859,Quality Control Inspector,9993600,9
+38802,Cybersecurity Analyst,7254500,10
+96978,Systems Engineer,5082700,6
+2563,Digital Marketing Manager,5054700,8
+33340,HR Assistant,7645500,9
+3724,Legal Secretary,6004300,7
+67443,Business Operations Manager,9917200,5
+36114,IT Support Specialist,729800,3
+16959,Physician Assistant,9765000,7
+88826,Research Scientist,4998500,6
+41536,Public Relations Specialist,5316500,7
+39786,Logistics Manager,867500,2
+65952,Brand Strategist,849900,3
+5857,Dental Assistant,2304600,10
+62748,Account Coordinator,2631200,9
+80204,Brand Strategist,6809200,4
+89144,Graphic Designer,157400,4
+26800,UX Designer,7631700,3
+4960,Market Research Assistant,5278700,3
+45723,Quality Assurance Engineer,5095400,8
+90216,Insurance Agent,9808700,10
+92703,Brand Strategist,6077700,5
+13005,Real Estate Agent,3065900,7
+27839,Occupational Therapist Assistant,5650800,5
+61151,Content Writer,628700,10
+24444,Production Supervisor,4184500,1
+7895,Insurance Broker,5461300,1
+27839,Healthcare Consultant,3382700,10
+26542,IT Analyst,4820100,9
+99149,Marketing Manager,5806900,3
+65952,Financial Auditor,9056800,5
+60146,Business Development Coordinator,2868400,5
+50497,Speech-Language Pathologist,4423400,2
+14519,HR Recruiter,9736300,7
+10576,Technical Writer,1455700,5
+17649,Web Developer,1350400,6
+41536,Nurse Practitioner,7967600,7
+50372,HR Recruiter,875400,3
+53630,Mechanical Engineer,8325300,4
+21541,Environmental Scientist,1242200,2
+4960,Financial Manager,7616200,10
+34554,Operations Coordinator,6669200,6
+86112,Market Research Assistant,2195100,6
+65906,Logistics Manager,3675400,7
+33340,Quality Assurance Engineer,5095400,5
+7895,IT Technician,1686900,9
+92029,Public Relations Specialist,8239000,5
+61508,Supply Chain Analyst,7607600,5
+96088,Retail Manager,1515900,4
+46487,Medical Records Clerk,7654600,2
+86964,Legal Secretary,5643300,4
+698,Systems Engineer,5758500,3
+36878,Sales Support Specialist,5478700,6
+74665,Product Marketing Manager,8568200,2
+61151,Occupational Health and Safety Specialist,435500,10
+42492,Operations Manager,3024600,8
+65826,Teacher,9476900,8
+6544,User Experience Researcher,4041600,4
+72200,Legal Analyst,9619200,4
+88826,Business Systems Analyst,6021800,6
+83817,Occupational Therapist Assistant,5650800,7
+74627,Public Relations Specialist,6273900,9
+96978,Nurse Practitioner,5213900,10
+67360,Systems Engineer,1939700,9
+96580,Legal Secretary,9408800,5
+70357,Business Development Executive,1190100,6
+30980,Marketing Manager,5076600,4
+51056,User Experience Researcher,202800,5
+20821,Production Supervisor,6683100,7
+29425,HR Coordinator,8154700,1
+23595,Dental Assistant,3797000,7
+42699,Occupational Health and Safety Specialist,4970000,4
+3117,Customer Service Representative,7436300,6
+78858,Public Relations Specialist,8239000,9
+73568,Customer Service Representative,9298200,6
+30849,Network Analyst,215200,6
+10576,Occupational Health and Safety Specialist,435500,4
+11153,Medical Technologist,1808600,1
+33424,Operations Coordinator,4977000,9
+86459,Logistics Coordinator,817000,1
+96236,Environmental Engineer,3949400,6
+45102,UI/UX Developer,1801400,3
+53630,Logistics Manager,7528400,6
+4960,Marketing Communications Manager,3169000,8
+68372,Talent Acquisition Specialist,4471700,4
+87255,Civil Engineer,1944700,1
+21577,Electrical Engineer,5310600,6
+40287,IT Support Specialist,6542900,9
+34103,Public Relations Manager,4017500,7
+68386,Compliance Officer,3938500,6
+50242,Financial Auditor,5217200,5
+37092,Corporate Trainer,2923300,4
+42492,Biomedical Engineer,2341700,10
+96580,Network Administrator,5373900,1
+38390,Network Security Engineer,7798200,3
+99820,Lawyer,6759000,8
+42699,Health Educator,4350100,5
+7895,Account Manager,1688300,4
+32233,Software Developer,8276500,7
+12839,Speech-Language Pathologist,818500,6
+61310,Administrative Assistant,3638800,5
+90020,Business Analyst,625200,8
+37092,Brand Strategist,7977100,10
+7581,Speech-Language Pathologist,972700,2
+18927,Legal Secretary,2183400,6
+19787,Speech-Language Pathologist,396300,8
+57319,IT Manager,2804100,6
+45319,Dental Hygienist,5844400,6
+50372,Market Research Assistant,2195100,1
+26800,Dental Assistant,1776000,8
+92703,Legal Researcher,4938000,4
+47262,Content Manager,5773000,7
+51497,Customer Success Manager,5486700,8
+19056,Technical Writer,9845400,6
+36878,Marketing Communications Manager,3169000,4
+33344,Sales Manager,7695700,8
+33956,Data Scientist,3908500,7
+69668,UX Designer,6305400,6
+92591,Financial Advisor,9388100,6
+86459,Operations Supervisor,3620000,8
+10552,Business Development Executive,490800,2
+74627,Product Owner,6214300,8
+27384,Biomedical Engineer,1852000,7
+33314,Customer Support Specialist,6857500,4
+13005,Content Writer,8049800,4
+75639,Human Resources Manager,3228900,6
+30442,Public Relations Coordinator,7088900,3
+97781,Financial Manager,7616200,8
+33340,Medical Technologist,2568700,9
+11153,Architect,3842500,1
+96236,Dental Assistant,1776000,4
+46487,Tax Preparer,2419200,9
+48155,Systems Analyst,1646700,6
+96422,Legal Researcher,4938000,4
+74121,Technical Writer,3753900,10
+69668,Medical Records Clerk,2423800,4
+92029,Environmental Scientist,1074800,2
+3117,Occupational Therapist,6570600,1
+61151,Compliance Officer,3249100,1
+19056,Marketing Analyst,7553600,9
+4361,Interior Designer,8238800,9
+33223,Purchasing Manager,4253600,9
+86812,Healthcare Administrator,3894000,9
+37092,Marketing Assistant,9734800,9
+75068,Business Development Manager,6865600,6
+15701,Public Relations Specialist,5316500,1
+14519,Teacher,5391700,6
+86459,Compliance Officer,2788500,7
+38802,Physical Therapy Assistant,3205000,7
+698,Web Developer,5749700,8
+86112,Cybersecurity Analyst,4913000,5
+85993,Pharmacist,6163300,9
+56583,Business Development Executive,451300,5
+70357,Market Research Analyst,2832800,7
+10576,Tax Preparer,1172200,5
+42699,Health Educator,4350100,5
+68386,HR Coordinator,8154700,6
+68372,Medical Technologist,7017800,9
+73496,Operations Coordinator,1961200,5
+64293,Interior Decorator,5146200,2
+48155,Insurance Claims Adjuster,2465400,4
+3291,Cybersecurity Engineer,1282000,5
+10552,Event Planner,460500,8
+17649,Public Relations Specialist,8239000,8
+16959,Business Systems Analyst,943200,6
+41113,Insurance Claims Adjuster,530700,7
+78189,Technical Writer,7937300,10
+43152,Healthcare Administrator,3408700,4
+78341,IT Project Manager,6916400,6
+34103,Architect,3842500,7
+30273,Supply Chain Coordinator,8565400,10
+97781,Human Resources Manager,3228900,6
+89144,Interior Designer,7383600,9
+33314,Sales Coordinator,9865900,4
+19787,Accountant,5216500,1
+33424,Business Systems Analyst,943200,7
+61786,Insurance Underwriter,9353400,7
+51383,Operations Supervisor,3620000,2
+45102,Business Systems Analyst,5115800,7
+57047,Compliance Officer,3938500,7
+68372,Market Research Manager,7017400,2
+67443,Business Systems Analyst,6021800,5
+61508,Operations Supervisor,7428300,2
+30980,IT Consultant,8232000,9
+34103,Environmental Engineer,951100,1
+86112,Real Estate Agent,6894100,10
+26800,Graphic Designer,534700,4
+78012,Marketing Assistant,4842300,2
+68386,Brand Manager,4085700,6
+3515,Sales Support Specialist,1193700,1
+67360,Physical Therapy Assistant,4508800,2
+42699,Product Marketing Manager,4819300,8
+30273,Financial Analyst,4605500,3
+78341,Customer Success Manager,5486700,2
+92703,Social Worker,5860500,6
+4960,Account Coordinator,8282700,5
+61786,Market Research Assistant,8490300,7
+7912,Product Owner,8598400,5
+99149,Product Owner,8963800,1
+33424,Recruitment Specialist,1756400,5
+34554,Network Administrator,7812200,9
+21714,Corporate Trainer,1613600,7
+2563,Market Analyst,365400,9
+56583,Business Development Executive,2091800,4
+26542,Research Scientist,1742900,3
+10552,Web Developer,6532500,9
+53452,Social Media Coordinator,5615400,6
+30273,Quality Assurance Engineer,8814600,3
+16365,Database Administrator,5808200,10
+92591,Registered Nurse,6801200,8
+72421,Sales Associate,6433500,1
+59703,Account Coordinator,8282700,8
+94859,Insurance Claims Adjuster,9579000,10
+32233,Interior Decorator,3086400,1
+83817,Social Media Manager,9630500,3
+21577,Environmental Scientist,1119300,2
+99820,Legal Secretary,4683200,1
+26800,Digital Content Creator,9377000,6
+69486,Supply Chain Analyst,5906600,7
+47262,Business Development Executive,5289800,4
+13729,Supply Chain Manager,490900,8
+21541,Database Administrator,7107800,7
+4960,Regulatory Affairs Specialist,3260900,8
+13250,Business Analyst,6140500,3
+19787,Accountant,774300,5
+51056,Investment Advisor,8288500,1
+96088,Occupational Therapist Assistant,9859600,1
+13250,Lawyer,464000,4
+48947,Event Planner,2816700,7
+92703,Cybersecurity Analyst,6419400,5
+67360,Network Analyst,215200,4
+48827,Content Manager,2639400,4
+92591,Technical Support Specialist,2528300,4
+4960,Registered Nurse,5237700,7
+34197,Copywriter,6277500,6
+33340,Architect,757500,5
+24444,Insurance Broker,6369600,2
+92591,Data Analyst,3988100,6
+51056,Business Systems Analyst,2452500,8
+20821,Physician Assistant,9765000,10
+99274,Brand Manager,4085700,2
+51056,Web Developer,5591800,7
+95439,UI/UX Developer,5096800,3
+96580,Electrician,5414700,2
+3515,Dental Assistant,2304600,9
+78189,HR Recruiter,9478800,2
+96236,Brand Manager,9078300,7
+4960,UI/UX Developer,6921400,1
+12839,Speech-Language Pathologist,1914100,5
+37092,Construction Manager,401900,7
+67443,Market Analyst,7756200,5
+29863,Teacher,4511300,9
+13224,Registered Nurse,6032400,5
+18927,Real Estate Agent,7252100,7
+56583,Market Research Analyst,7524300,5
+71313,Data Entry Specialist,1429400,7
+27611,Multimedia Artist,9743300,4
+5807,Sales Associate,9987900,1
+95439,Market Research Assistant,9241100,5
+28350,Legal Secretary,2183400,5
+90935,Legal Assistant,5118200,6
+11273,Investment Analyst,4778900,5
+30442,IT Technician,2317100,9
+73122,Business Systems Analyst,2452500,5
+97781,Lawyer,464000,3
+86480,Public Relations Manager,1469000,2
+53473,HR Manager,4670300,9
+13005,Social Worker,2264300,3
+92591,Executive Assistant,8007700,4
+59703,Investment Banker,9447500,5
+90931,User Experience Researcher,3263400,3
+90020,Project Coordinator,7971100,9
+61151,Executive Assistant,8875100,5
+78189,Systems Administrator,4799000,2
+38802,Insurance Broker,2247000,7
+45744,User Experience Researcher,3517000,6
+18927,Regulatory Affairs Specialist,7036700,8
+83429,Occupational Health and Safety Specialist,8661900,6
+86964,UI/UX Developer,8184800,1
+42699,Occupational Health and Safety Specialist,8019700,5
+33314,Software Tester,6675600,2
+95439,Financial Clerk,8718600,3
+48947,Data Analyst,7683200,10
+90931,Brand Strategist,6612200,6
+4960,Physical Therapy Assistant,4508800,8
+13083,Supply Chain Coordinator,7624600,8
+13083,Mechanical Technician,6581000,9
+80204,Human Resources Manager,6457200,7
+33340,Product Marketing Manager,7441200,8
+29863,Insurance Broker,6369600,5
+96088,Business Consultant,9779700,4
+46487,Web Developer,8752000,8
+51383,Software Engineer,7741900,6
+33223,Content Writer,628700,10
+96580,Social Worker,5643800,1
+50497,Social Media Manager,9630500,7
+33314,Financial Manager,7616200,3
+36878,Market Research Manager,3362900,6
+68386,Multimedia Artist,7680100,2
+57319,Recruitment Specialist,1756400,5
+48155,Digital Marketing Specialist,2978700,1
+18927,Product Owner,8963800,3
+41113,HR Recruiter,8285400,4
+23704,Network Analyst,4623500,3
+17641,Medical Records Clerk,3334500,6
+21714,Digital Marketing Coordinator,2895900,4
+45319,SEO Specialist,2277400,9
+57319,Project Coordinator,7971100,8
+69081,IT Manager,2894600,5
+69486,Physical Therapist,8702600,7
+90935,Brand Strategist,6077700,2
+13005,IT Manager,2894600,2
+71576,Insurance Broker,6497000,4
+30849,Market Research Manager,1480800,4
+39178,Public Relations Specialist,8239000,10
+51056,IT Security Analyst,2895400,2
+13224,Product Marketing Manager,6799400,3
+69486,Operations Manager,4341800,8
+33340,Event Planner,213100,9
+57319,Research Scientist,2507700,8
+69668,Legal Researcher,4938000,10
+92029,Market Analyst,365400,10
+39178,Social Media Coordinator,5615400,3
+51383,HR Recruiter,7710500,10
+72421,Financial Controller,3087600,4
+45102,Civil Engineer,9408200,4
+34103,Medical Billing Specialist,5398400,5
+65906,Recruitment Specialist,1756400,2
+34197,Executive Assistant,5757000,4
+34197,Insurance Claims Adjuster,2465400,4
+78341,Accountant,774300,10
+36114,Copywriter,7103900,9
+71313,Technical Support Engineer,826800,9
+39178,Marketing Assistant,8821500,5
+67360,Digital Marketing Specialist,748900,6
+2325,Web Developer,6532500,4
+55811,HR Generalist,9713000,9
+5807,Social Media Specialist,7353900,7
+82991,Content Manager,4664200,10
+33424,Event Coordinator,2150900,8
+30849,Financial Clerk,5508000,7
+59703,Event Manager,4451400,10
+74627,Operations Manager,203700,5
+3291,Social Media Specialist,6046600,6
+75068,Sales Support Specialist,1193700,9
+16959,Financial Auditor,5217200,1
+97781,Logistics Manager,7528400,5
+2325,Legal Secretary,8994100,4
+97781,Event Manager,805500,10
+24444,Network Technician,6369200,7
+68386,Business Consultant,3227200,9
+74665,Social Media Manager,954800,2
+74121,Insurance Underwriter,9353400,8
+16959,Operations Supervisor,5418200,8
+38802,Research Scientist,4998500,3
+26800,Registered Nurse,2362300,10
+12839,Occupational Therapist,8390600,5
+54580,Talent Acquisition Specialist,4471700,9
+4361,IT Specialist,189100,4
+60146,Social Media Manager,954800,7
+50497,Legal Assistant,8036200,2
+78607,Account Coordinator,7483600,6
+11153,Financial Analyst,4605500,2
+54580,Sales Representative,7871700,9
+90931,Copywriter,6277500,9
+78341,Brand Strategist,7977100,6
+74091,UX Designer,6305400,5
+73076,Business Consultant,7556700,1
+47262,Retail Manager,2573300,10
+29425,Product Marketing Manager,4819300,2
+36114,Systems Analyst,1646700,6
+65952,Human Resources Manager,7885800,5
+21714,Administrative Assistant,4173000,8
+20821,Real Estate Agent,2529700,2
+59703,IT Consultant,8232000,7
+57047,Public Relations Coordinator,3154400,4
+40287,Marketing Assistant,2403300,7
+96088,Event Coordinator,2119300,9
+67360,Social Worker,723500,10
+11153,Logistics Manager,3675400,7
+41536,Financial Analyst,3877500,8
+83427,Talent Acquisition Specialist,4471700,2
+45319,Medical Billing Specialist,6549400,10
+96580,Production Supervisor,4620400,6
+72200,IT Manager,7079100,9
+3291,IT Manager,9892500,5
+65952,Medical Billing Specialist,3970100,6
+68372,IT Consultant,6382000,1
+61151,HR Assistant,1703700,3
+20821,Project Coordinator,3984400,3
+58073,Mechanical Technician,903600,10
+73496,Account Coordinator,7483600,5
+50497,Quality Control Inspector,5245400,6
+40616,Digital Marketing Specialist,2978700,5
+61786,Customer Support Specialist,6857500,1
+74665,IT Security Analyst,2895400,4
+13250,Financial Planner,9890600,7
+30980,Administrative Assistant,3638800,6
+13250,Insurance Underwriter,1575300,8
+86459,Market Research Assistant,9054400,4
+87255,Cybersecurity Engineer,5904800,1
+51383,Project Coordinator,4994900,1
+57047,IT Technician,4680000,1
+698,Registered Nurse,4459300,9
+34103,IT Support Specialist,1950900,3
+48827,Data Entry Specialist,2728600,6
+24846,Legal Researcher,4938000,4
+56583,Account Manager,7136900,7
+78012,Web Developer,4849900,2
+65906,Dental Hygienist,7996600,5
+86480,Sales Associate,6433500,6
+33314,UX Designer,4940700,1
+95439,Medical Records Clerk,3334500,5
+96236,Human Resources Manager,9483500,9
+78012,Marketing Communications Manager,7969500,9
+60146,Dental Assistant,7635300,3
+68386,Medical Laboratory Technician,704700,7
+96088,Network Security Engineer,307600,7
+61310,Mechanical Technician,903600,10
+90216,Customer Experience Manager,5098000,4
+48827,Marketing Specialist,1006900,3
+53630,UI/UX Developer,3862000,10
+51383,Interior Designer,7383600,2
+16365,Customer Experience Manager,6233000,2
+90216,Digital Marketing Specialist,7814900,5
+27384,Legal Secretary,7905500,8
+27384,Financial Advisor,3065300,10
+68372,Data Scientist,458300,8
+16959,IT Security Analyst,2895400,9
+27611,Civil Engineer,9408200,8
+92029,Occupational Therapist,5620700,5
+33340,IT Consultant,2498300,2
+71576,Legal Assistant,9188600,7
+41113,Nurse Practitioner,4573800,1
+49332,User Experience Researcher,3517000,6
+57319,Nurse Practitioner,219800,2
+50497,Operations Coordinator,6669200,8
+13250,Business Systems Analyst,597700,6
+5807,IT Specialist,5461300,3
+82991,Research Scientist,4998500,9
+85039,Occupational Therapist Assistant,8448400,6
+47262,Mechanical Technician,6581000,3
+43152,Financial Analyst,7037600,3
+51056,Sales Manager,9367200,7
+69668,Regulatory Affairs Specialist,5392400,8
+30849,Tax Preparer,2419200,6
+78189,Occupational Therapist,9208500,4
+73568,UX Designer,7631700,9
+12839,Financial Advisor,3065300,3
+66809,Sales Coordinator,1772000,4
+47262,Public Relations Specialist,8239000,2
+96236,Graphic Designer,2286000,3
+65906,Web Developer,5591800,8
+41113,HR Director,8772200,1
+82991,Digital Marketing Manager,537300,7
+50242,Content Writer,2437700,2
+48827,Teacher,4511300,1
+86459,Financial Manager,4508600,10
+23704,Market Research Analyst,5979500,6
+26800,IT Security Analyst,1761400,1
+11153,Pharmacist,5366800,1
+74627,Investment Banker,4423600,1
+73122,Data Entry Specialist,1033900,6
+40311,Investment Analyst,8498700,1
+55952,Real Estate Agent,2529700,8
+50372,Operations Manager,203700,8
+27839,UI/UX Developer,8184800,3
+38802,Nurse Manager,5946000,4
+68372,Legal Secretary,1927900,6
+21466,Architect,7605700,8
+13005,Sales Manager,6754700,9
+72200,Market Research Assistant,1671000,5
+28350,Software Engineer,5862300,6
+61151,Legal Secretary,9264800,5
+73076,Occupational Therapist Assistant,8448400,3
+58073,Market Analyst,3112600,9
+3117,Production Supervisor,6683100,4
+38562,User Experience Researcher,4041600,2
+72200,Network Security Engineer,7798200,10
+10576,IT Support Specialist,729800,1
+27611,HR Director,5485800,10
+5857,Content Writer,5200100,8
+19056,Customer Success Manager,6342700,3
+55811,Business Development Manager,4725800,7
+10552,Market Research Assistant,2195100,1
+17649,HR Generalist,5255800,5
+99274,Medical Assistant,8480300,7
+57047,Operations Manager,3024600,4
+39786,Public Relations Coordinator,7386900,4
+7895,Research Scientist,2507700,1
+96236,Software Developer,8276500,3
+15701,HR Director,8772200,9
+13224,Insurance Claims Adjuster,9096700,6
+80204,Event Planner,5347800,8
+39178,Event Planner,5347800,7
+86812,Financial Analyst,503400,7
+75068,Software Developer,8276500,10
+78607,Sales Manager,6754700,7
+96580,Electrical Engineer,2999400,7
+45319,Data Entry Specialist,308200,1
+26800,Architect,1123300,9
+3515,Market Research Analyst,2832800,1
+78341,Physical Therapy Assistant,4508800,8
+86812,Financial Advisor,6441800,9
+69992,Accountant,5216500,3
+30442,IT Project Manager,2659700,1
+28350,Retail Manager,8462400,1
+96088,Business Systems Analyst,6021800,4
+21714,HR Director,5485800,9
+39178,Accountant,4747700,5
+49332,Business Systems Analyst,7014100,7
+66809,Database Administrator,5808200,9
+78858,Sales Manager,7695700,1
+5857,Software Engineer,7741900,6
+698,Talent Acquisition Specialist,6303600,5
+81035,Content Manager,4422900,3
+83427,Production Supervisor,3448300,9
+47377,Biomedical Engineer,443000,3
+47377,Talent Manager,899200,4
+61786,Sales Support Specialist,1193700,10
+44043,Nurse Manager,8519100,10
+30849,Business Systems Analyst,2452500,6
+68372,Software Engineer,6594600,10
+41536,Investment Advisor,8520800,9
+17649,Business Development Manager,4579100,10
+47377,Public Relations Specialist,5316500,8
+26800,Medical Billing Specialist,8306400,6
+65952,Financial Analyst,5583400,5
+73496,Copywriter,7103900,10
+86112,Content Writer,2437700,8
+48155,Market Research Analyst,4713200,10
+51383,Technical Writer,7937300,9
+24485,Financial Advisor,9388100,10
+83427,Graphic Designer,534700,9
+55952,IT Security Analyst,2895400,1
+48947,Occupational Health and Safety Specialist,1156600,6
+99820,Corporate Trainer,2923300,1
+30273,Database Administrator,2713700,2
+68386,Insurance Broker,6369600,9
+74091,Customer Service Representative,4328600,1
+73568,Market Research Analyst,5979500,8
+37092,IT Security Specialist,5776700,9
+83427,Brand Strategist,4174100,1
+65826,Insurance Underwriter,9437400,8
+73568,Dental Assistant,2304600,7
+36878,Business Development Executive,169000,9
+74091,HR Assistant,9783100,3
+59703,Financial Analyst,3000200,1
+13224,Product Manager,3822600,4
+24485,UI/UX Developer,3862000,10
+87255,IT Analyst,9221300,1
+81035,Business Systems Analyst,943200,8
+33340,Architect,3842500,6
+73122,Account Coordinator,2561300,5
+78189,Speech-Language Pathologist,396300,1
+42699,Financial Manager,6164800,2
+13224,Speech-Language Pathologist,4423400,9
+48827,Network Security Engineer,4687800,5
+97781,Public Relations Specialist,890700,2
+48155,IT Consultant,5093700,1
+74665,Corporate Trainer,3563300,10
+86112,Insurance Claims Adjuster,9096700,8
+92703,Cybersecurity Engineer,6585700,7
+74121,Registered Nurse,6125600,5
+90216,Brand Strategist,6077700,7
+92703,Investment Banker,9447500,3
+96236,Health Educator,145400,10
+47377,Financial Clerk,5878800,9
+16977,Speech-Language Pathologist,4423400,7
+99820,Business Operations Manager,8045100,4
+42492,Financial Controller,1267000,8
+24444,Healthcare Administrator,2480300,3
+73568,Financial Auditor,5217200,6
+3291,Environmental Engineer,3210100,6
+45102,Speech-Language Pathologist,3786200,1
+3724,Account Coordinator,2631200,10
+5807,Legal Analyst,6564400,4
+92029,IT Analyst,4820100,9
+40311,Financial Planner,3954500,10
+99274,Social Media Specialist,6046600,3
+34554,Cybersecurity Analyst,7254500,2
+61310,Sales Representative,2240900,5
+17641,Software Engineer,7505500,8
+13224,Legal Assistant,3840600,2
+68386,Brand Manager,2971100,8
+53473,IT Technician,4996200,2
+86480,Data Entry Specialist,1033900,9
+51497,Sales Associate,2646600,10
+3724,Network Engineer,2953600,4
+29863,Supply Chain Analyst,8769100,1
+88826,Systems Analyst,3822700,2
+78607,HR Director,8772200,8
+21577,Interior Decorator,4481400,10
+68372,Quality Assurance Engineer,6480500,4
+41536,Account Coordinator,6487500,10
+42699,Supply Chain Coordinator,2949900,2
+96236,Tax Preparer,1172200,7
+21466,Product Owner,8986000,4
+30980,Insurance Claims Adjuster,6503200,3
+83429,Social Worker,5860500,9
+57319,SEO Specialist,8355600,5
+92703,Software Developer,1067700,8
+73536,Pharmacist,6163300,2
+47377,Physician Assistant,230100,7
+86812,Investment Advisor,8520800,2
+55811,Network Security Engineer,7798200,5
+24485,Interior Decorator,3086400,10
+45102,Event Planner,2651600,7
+74091,Healthcare Administrator,3894000,5
+70357,Mechanical Technician,361700,8
+80204,Accountant,5906100,2
+51056,Marketing Director,113700,7
+18927,Business Development Manager,4579100,10
+73568,IT Specialist,7669000,6
+78189,Financial Analyst,267900,8
+64293,Project Manager,8090100,9
+55952,Medical Billing Specialist,6549400,8
+58073,Mechanical Engineer,2988600,5
+95439,Content Manager,4664200,10
+68386,Legal Assistant,9188600,4
+6544,Financial Clerk,1852400,3
+32233,Production Supervisor,3448300,7
+86459,Talent Acquisition Specialist,118600,9
+86964,Public Relations Manager,1877100,8
+94859,Quality Control Inspector,9993600,4
+56583,Supply Chain Coordinator,2949900,6
+24444,Supply Chain Manager,449400,2
+38390,Product Manager,3822600,5
+23595,Account Coordinator,6487500,6
+59703,IT Security Specialist,7820800,6
+7912,Business Development Executive,2091800,6
+41536,Cybersecurity Engineer,1282000,8
+41113,Medical Billing Specialist,7964500,2
+34103,Sales Representative,2240900,6
+78607,Database Administrator,5808200,8
+38802,Production Supervisor,2531500,1
+34197,Business Development Manager,6865600,3
+49332,UX Designer,4940700,9
+64293,IT Manager,2706400,7
+19787,HR Specialist,2112500,5
+83427,Marketing Specialist,4962900,4
+20821,Biomedical Engineer,1852000,9
+68386,Cybersecurity Analyst,4913000,4
+7912,Business Systems Analyst,943200,1
+59703,Market Research Analyst,7524300,3
+12839,Mechanical Engineer,2988600,9
+18347,Operations Manager,4341800,6
+72421,IT Technician,4996200,9
+51497,Digital Content Creator,9883100,8
+46487,Product Owner,8070600,3
+53630,Recruiting Coordinator,6851500,5
+97781,Environmental Engineer,4905100,4
+37092,Tax Preparer,2419200,2
+51497,Regulatory Affairs Specialist,3260900,7
+90931,Speech-Language Pathologist,1914100,8
+4361,Financial Clerk,5508000,2
+20821,Interior Designer,8478600,2
+92591,Supply Chain Manager,7613800,10
+53473,Web Developer,5556800,7
+40287,Supply Chain Analyst,8769100,8
+46487,Multimedia Artist,9743300,4
+35871,Registered Nurse,5825100,6
+67360,Accountant,5523100,10
+61508,Social Worker,5643800,9
+30168,Business Development Executive,5237900,10
+21466,Social Media Specialist,9165700,6
+30273,Production Supervisor,3448300,2
+60146,Public Relations Manager,1877100,7
+99820,Operations Manager,203700,7
+46487,Healthcare Consultant,3382700,9
+28350,Product Owner,8986000,1
+698,Physical Therapist,8300900,6
+50497,Database Administrator,7504000,6
+75639,Financial Clerk,8718600,7
+11153,Operations Manager,3024600,2
+65906,Supply Chain Manager,4932600,2
+26800,SEO Specialist,8270800,6
+38562,Sales Manager,5418000,10
+40616,Account Manager,1687500,4
+19787,Business Development Executive,9213800,8
+82991,Data Scientist,458300,1
+3724,Sales Associate,6433500,2
+38390,Legal Secretary,6004300,8
+71576,Event Coordinator,8393100,5
+96580,Account Manager,1688300,5
+3515,Interior Decorator,4897800,7
+74627,Insurance Underwriter,787700,4
+40287,Legal Secretary,2183400,1
+51497,Digital Marketing Specialist,8551800,4
+38802,Marketing Assistant,4842300,8
+61310,Logistics Coordinator,5814700,10
+73568,Legal Secretary,1927900,8
+46487,Compliance Officer,679600,8
+13224,HR Manager,8366400,8
+27839,Insurance Agent,2913900,9
+83427,Marketing Communications Manager,7275600,8
+61786,Research Scientist,499800,1
+85993,Financial Risk Analyst,6025500,6
+87255,Software Engineer,6174900,4
+7912,Executive Assistant,8875100,2
+51497,Financial Planner,6432900,3
+73568,Physical Therapist,4030900,10
+39786,SEO Specialist,8355600,2
+75068,IT Manager,4202400,8
+53452,Retail Manager,2573300,1
+35871,Speech-Language Pathologist,8881300,9
+11153,Systems Administrator,4799000,2
+61310,Environmental Engineer,4905100,8
+65952,Medical Billing Specialist,6943200,1
+78607,Insurance Claims Adjuster,773500,4
+33344,Graphic Designer,2286000,9
+58073,Network Administrator,7812200,7
+42492,Content Manager,8911400,7
+45319,Network Analyst,3644200,7
+71576,Legal Assistant,5118200,4
+65952,Investment Banker,9331300,10
+94019,Biomedical Engineer,2341700,5
+68372,Cybersecurity Engineer,9244800,1
+50372,UI/UX Developer,5096800,3
+72421,Event Manager,8916600,3
+51497,Teacher,9476900,9
+45723,Investment Banker,9447500,7
+13224,Content Writer,2437700,5
+78607,HR Generalist,6218600,10
+4960,Regulatory Affairs Specialist,8362800,7
+74665,IT Project Manager,2659700,2
+4361,Web Developer,5591800,8
+61508,Marketing Manager,8123800,2
+21466,Business Systems Analyst,943200,7
+5857,IT Support Specialist,729800,6
+90216,Interior Designer,8671000,1
+33956,Dental Hygienist,7996600,1
+78341,Construction Manager,1597500,3
+54580,Business Development Manager,7370800,10
+99274,Business Operations Manager,8550800,9
+24846,Mechanical Engineer,2988600,1
+64293,Sales Manager,5418000,1
+50372,Sales Support Specialist,1193700,6
+92591,Medical Billing Specialist,8306400,4
+73536,Event Planner,2651600,2
+72421,Event Planner,460500,8
+86964,Real Estate Agent,7252100,2
+61786,Social Media Specialist,9165700,5
+92029,Marketing Assistant,4842300,2
+94019,UX Designer,4940700,2
+60146,Retail Manager,2573300,4
+35871,HR Manager,8366400,3
+17641,Brand Strategist,849900,6
+78189,Copywriter,7103900,6
+81035,Financial Analyst,5749900,4
+68386,HR Manager,4670300,3
+7581,Research Scientist,688500,4
+61419,Architect,3842500,10
+85932,Data Analyst,4759500,4
+30442,Supply Chain Manager,9623700,5
+38802,Compliance Officer,4547100,8
+29863,IT Consultant,8232000,7
+86459,Legal Secretary,7905500,6
+53473,Insurance Underwriter,9437400,8
+51497,Environmental Scientist,6808700,10
+5857,Occupational Health and Safety Specialist,1156600,9
+65906,Business Development Executive,8882500,6
+73076,Financial Analyst,3000200,10
+99149,Event Planner,2816700,3
+27384,Construction Manager,417600,2
+24846,Occupational Health and Safety Specialist,4970000,3
+47377,Medical Records Clerk,7654600,3
+24444,Content Writer,628700,5
+21466,Marketing Assistant,5223200,3
+72200,IT Specialist,2284600,2
+19056,Teacher,4220400,4
+48827,Compliance Officer,3249100,9
+57047,Brand Strategist,7977100,8
+27611,Database Administrator,7107800,1
+51497,Production Supervisor,6683100,2
+18927,Architect,450700,4
+36114,Network Analyst,8671100,10
+96580,Marketing Analyst,5934900,4
+49332,Legal Assistant,9188600,3
+68372,Mechanical Technician,361700,6
+4960,Content Manager,4664200,10
+72421,IT Specialist,2284600,10
+18927,Legal Secretary,8994100,10
+73536,Occupational Health and Safety Specialist,435500,6
+61151,Business Development Manager,7370800,5
+33956,Network Security Engineer,267000,2
+40287,Insurance Claims Adjuster,9579000,2
+68386,Marketing Manager,5806900,2
+30442,Physical Therapy Assistant,1779800,3
+86459,Nurse Manager,1180300,9
+81035,Social Worker,2264300,10
+27839,Architect,450700,1
+61508,Occupational Therapist,9208500,4
+82991,Administrative Assistant,3085200,2
+30980,Product Owner,8070600,10
+78341,IT Project Manager,9861800,1
+33344,Physician Assistant,7564400,7
+96580,Administrative Assistant,9921900,9
+94859,Public Relations Coordinator,7497400,10
+47262,Civil Engineer,1944700,7
+84822,Public Relations Coordinator,7497400,7
+38390,Customer Experience Manager,5098000,6
+30442,Market Research Analyst,806400,9
+42492,Healthcare Administrator,2480300,9
+34197,Medical Records Clerk,7654600,1
+85039,Account Coordinator,8282700,10
+16959,Dental Assistant,7635300,6
+41113,IT Project Manager,6916400,4
+42699,Cybersecurity Analyst,1568600,2
+92029,Cybersecurity Analyst,1568600,9
+40311,Software Developer,1067700,2
+4960,Accountant,774300,1
+20821,Electrician,6717000,2
+42699,Talent Acquisition Specialist,6441500,4
+27839,Sales Representative,2240900,8
+74665,Market Research Manager,1154200,4
+74121,Insurance Underwriter,576700,7
+19056,Marketing Analyst,8998700,6
+87255,Tax Accountant,9827800,1
+47377,Occupational Health and Safety Specialist,435500,3
+30273,HR Coordinator,7681400,6
+67443,Insurance Claims Adjuster,9096700,10
+72200,Insurance Agent,9808700,1
+92703,Software Engineer,7741900,10
+64293,Research Scientist,5849200,7
+34103,Speech-Language Pathologist,4423400,10
+17649,Technical Support Specialist,5119700,10
+30168,Research Scientist,1742900,3
+40311,Social Worker,2264300,8
+46361,Business Development Executive,5289800,9
+36732,Social Media Specialist,6046600,8
+61786,Interior Decorator,4481400,7
+51383,SEO Specialist,1651000,2
+78012,IT Analyst,3433700,2
+35871,Legal Secretary,6640000,1
+50242,Real Estate Agent,4757900,1
+41113,Logistics Coordinator,5815500,9
+91834,Compliance Officer,2788500,1
+18347,Civil Engineer,6074500,3
+74091,Medical Billing Specialist,6943200,4
+73496,Mechanical Technician,305600,5
+73076,Systems Engineer,4702700,6
+87255,Medical Office Manager,8640100,6
+47377,Research Assistant,2942000,3
+53452,User Experience Researcher,9040300,3
+33340,Marketing Assistant,9710600,6
+82991,Business Analyst,7870900,3
+75639,Administrative Assistant,3085200,7
+74665,Administrative Assistant,1123000,6
+30442,Business Systems Analyst,6021800,4
+73496,Business Development Coordinator,2868400,1
+69486,Legal Secretary,1897200,4
+75639,Environmental Engineer,9672000,7
+26800,Financial Auditor,5537400,10
+72200,Data Entry Specialist,1429400,7
+90931,Social Worker,613200,8
+96422,Pharmacist,3974200,9
+71576,IT Project Manager,2659700,5
+62748,IT Specialist,2272900,5
+75639,Product Marketing Manager,7841700,5
+27611,Business Development Manager,9793600,7
+45723,Brand Strategist,4174100,3
+21577,Customer Experience Manager,4673000,10
+80204,HR Generalist,9979200,5
+73536,Web Developer,1350400,1
+21577,Architect,3569800,4
+74091,Marketing Coordinator,8773100,7
+96580,Legal Researcher,3503700,5
+78341,IT Consultant,6382000,3
+38802,Architect,7605700,9
+47377,Interior Decorator,1684400,1
+61419,Financial Advisor,6441800,9
+36732,IT Consultant,2498300,3
+36878,Executive Assistant,8007700,1
+92029,Tax Preparer,5424800,2
+30980,Database Administrator,7504000,4
+13083,Marketing Assistant,8821500,4
+64293,Digital Marketing Specialist,5920000,5
+71313,Content Writer,2437700,5
+99274,IT Consultant,8232000,8
+71576,Marketing Communications Manager,7275600,3
+96088,Medical Billing Specialist,6943200,3
+56583,Product Marketing Manager,6865200,7
+96088,Production Supervisor,2531500,6
+61786,Cybersecurity Analyst,6419400,9
+57047,IT Analyst,9221300,1
+26542,HR Recruiter,7346400,10
+18347,Business Operations Manager,9917200,3
+36878,Public Relations Manager,8060900,8
+74665,HR Recruiter,5451900,6
+40616,Research Scientist,499800,1
+78341,Quality Control Inspector,6986900,6
+78189,Dental Assistant,4323600,7
+18927,Investment Analyst,4566500,2
+55952,Insurance Claims Adjuster,9096700,2
+34197,Financial Clerk,5600900,1
+90935,Operations Manager,4341800,9
+89144,Network Security Engineer,307600,4
+65906,Legal Secretary,8994100,2
+10552,Copywriter,6277500,6
+23595,Real Estate Agent,6225500,5
+34197,Lawyer,5638800,2
+83427,Data Analyst,6409100,8
+40311,IT Manager,8256700,3
+57319,Product Manager,3822600,6
+40616,Investment Banker,9499900,9
+97781,UI/UX Developer,1801400,4
+53473,Financial Analyst,3144600,10
+3724,Data Analyst,7683200,1
+83817,Business Systems Analyst,597700,4
+51383,Digital Marketing Manager,5054700,1
+73568,Social Media Coordinator,5615400,6
+27839,Account Coordinator,7483600,7
+75639,Data Analyst,3988100,1
+53630,Event Coordinator,2150900,4
+35871,Mechanical Engineer,4849100,7
+96978,Environmental Scientist,8334400,1
+16365,Insurance Underwriter,1575300,7
+90931,Financial Manager,4508600,9
+17641,Environmental Scientist,6808700,10
+57319,Systems Analyst,3822700,8
+3515,IT Technician,916400,2
+94859,Compliance Officer,679600,2
+96422,Customer Success Manager,6075100,4
+698,Software Engineer,6174900,9
+36114,IT Auditor,3362200,6
+11922,Supply Chain Coordinator,7624600,8
+73122,Financial Planner,9890600,9
+92029,Executive Assistant,4726800,8
+50497,Software Engineer,6936900,9
+61508,Accountant,5523100,5
+83817,Marketing Manager,5806900,1
+74665,Financial Advisor,9388100,9
+73496,Interior Designer,8238800,9
+44043,Technical Writer,472900,4
+17649,Legal Researcher,5936200,3
+69992,Business Development Manager,6865600,1
+86964,Medical Billing Specialist,8306400,3
+53630,IT Security Specialist,7820800,2
+62748,UX Designer,4940700,3
+26542,Nurse Manager,5946000,7
+90935,Occupational Therapist Assistant,5650800,3
+11153,IT Specialist,7831800,1
+13005,IT Manager,2894600,4
+88826,Digital Marketing Specialist,748900,10
+2563,Digital Marketing Manager,6566100,4
+2325,HR Specialist,2112500,8
+13224,Executive Assistant,4726800,1
+5857,Registered Nurse,6801200,3
+61786,Real Estate Agent,2529700,1
+61310,Architect,7605700,2
+69992,Supply Chain Analyst,7607600,6
+71576,Accountant,5729800,3
+2325,Database Administrator,5808200,9
+76953,HR Assistant,2197400,9
+30980,Human Resources Manager,1858600,2
+698,Customer Success Manager,3312500,8
+82991,Marketing Assistant,5408200,9
+40311,IT Security Specialist,7634700,8
+96978,Financial Clerk,1852400,2
+38562,Sales Manager,5418000,3
+33340,Occupational Therapist,6570600,5
+78607,IT Support Specialist,6542900,6
+30168,Market Research Manager,2588500,4
+2325,Digital Marketing Coordinator,2482800,7
+51383,IT Manager,2894600,6
+99149,Business Development Manager,9793600,7
+64293,Social Media Manager,954800,5
+66809,Architect,3319600,2
+55811,Public Relations Manager,9624500,3
+32233,Market Research Manager,5311700,3
+71313,Quality Assurance Engineer,8814600,7
+4960,Project Manager,2152300,9
+90216,Environmental Engineer,3210100,7
+13005,UX Designer,6305400,5
+58073,Corporate Trainer,1613600,1
+45319,HR Coordinator,2232300,5
+92703,Market Research Assistant,1671000,9
+89144,UX Designer,8202600,10
+54580,IT Analyst,9221300,7
+71313,Digital Content Creator,8778300,3
+73568,Web Developer,1350400,1
+70357,Database Administrator,2879500,1
+2563,Customer Experience Manager,4673000,7
+99149,Content Manager,8911400,10
+88826,Sales Manager,6754700,2
+99820,Network Administrator,5373900,2
+5857,Business Systems Analyst,2991600,4
+5857,Financial Planner,6432900,4
+68372,Speech-Language Pathologist,8881300,3
+19787,Corporate Trainer,832500,6
+36878,Teacher,5391700,3
+78607,Accountant,774300,9
+34103,Real Estate Agent,8476600,9
+78012,Interior Designer,9303500,2
+42699,Software Developer,735900,7
+69486,Cybersecurity Analyst,627000,10
+78607,Systems Engineer,5758500,10
+26542,Data Analyst,8216400,1
+90931,Market Analyst,3775100,5
+78012,Network Analyst,8671100,3
+97781,SEO Specialist,2277400,5
+69081,Product Owner,8986000,1
+92029,Mechanical Engineer,2988600,6
+36114,Public Relations Specialist,890700,10
+72200,Occupational Therapist Assistant,8448400,10
+80204,Business Development Coordinator,9287900,7
+53630,Content Manager,4422900,2
+38802,Technical Writer,472900,10
+34554,HR Manager,1055000,2
+26542,Digital Marketing Specialist,9304800,6
+86112,Financial Analyst,7037600,1
+19787,Teacher,9522800,8
+51383,IT Manager,5348600,5
+34197,Social Media Specialist,2191200,4
+33223,Social Media Specialist,9165700,1
+14519,Registered Nurse,6032400,2
+11922,Quality Control Inspector,6255600,4
+76953,Digital Marketing Coordinator,2482800,8
+11922,IT Manager,7079100,2
+23595,Healthcare Consultant,2754400,1
+65826,Retail Manager,1879300,4
+96088,Event Manager,805500,10
+86480,Financial Analyst,5583400,3
+24846,Research Coordinator,6571200,8
+44043,Human Resources Manager,3228900,1
+99274,Market Research Manager,7017400,10
+85932,HR Assistant,1703700,5
+5857,Environmental Scientist,1242200,10
+19056,Network Security Engineer,307600,9
+94859,Network Administrator,7812200,5
+33424,Compliance Officer,571400,1
+78607,Technical Support Engineer,5632800,10
+30273,Technical Support Specialist,2528300,7
+13250,Market Analyst,956700,6
+42699,Medical Technologist,2751900,10
+36878,Construction Manager,1597500,1
+45723,Sales Support Specialist,5478700,5
+47262,Supply Chain Coordinator,7624600,1
+26800,Interior Designer,8238800,7
+55952,Digital Marketing Manager,5054700,7
+96088,Account Manager,1688300,9
+33956,Insurance Underwriter,787700,8
+61419,Operations Supervisor,7428300,10
+46487,Architect,411400,9
+13729,Market Research Analyst,4749400,10
+96978,Recruiting Coordinator,6851500,8
+47262,Electrician,5414700,3
+76953,Content Writer,8049800,6
+73122,Public Relations Manager,8060900,2
+61151,Operations Coordinator,1961200,5
+6544,HR Specialist,1460500,7
+40287,Quality Assurance Engineer,3281900,5
+61508,IT Support Specialist,1950900,6
+6544,HR Recruiter,7710500,4
+61419,Software Developer,1096700,9
+33314,Dental Assistant,7635300,10
+46487,Legal Secretary,8551300,8
+12839,Legal Secretary,6640000,2
+99149,Event Planner,2816700,2
+16977,Legal Analyst,6041800,3
+92703,Marketing Specialist,8907200,8
+92703,User Experience Researcher,3517000,3
+698,Medical Assistant,170900,4
+45723,Copywriter,6277500,7
+78858,Dental Assistant,2424600,4
+50497,Cybersecurity Analyst,627000,9
+45102,Network Engineer,6271500,5
+55811,Pharmacist,1644700,5
+698,Occupational Therapist Assistant,4148200,2
+87206,Market Analyst,3112600,9
+86112,Quality Control Inspector,9993600,3
+87206,Graphic Designer,2286000,3
+5857,Software Engineer,5862300,9
+40287,Financial Analyst,3144600,8
+27384,Operations Manager,3024600,4
+51497,UX Designer,4940700,6
+69668,IT Project Manager,2659700,3
+11922,Nurse Manager,5946000,8
+23595,User Experience Researcher,202800,8
+76953,Architect,3569800,1
+48155,Marketing Communications Manager,6230000,3
+61419,Medical Assistant,7277300,2
+40287,Legal Secretary,608700,2
+75068,Operations Manager,8947500,5
+18927,Business Development Executive,8882500,7
+74665,Health Educator,4350100,9
+50497,Systems Engineer,1939700,9
+27611,Insurance Broker,9024900,5
+61310,Business Operations Manager,8550800,8
+30980,Social Media Coordinator,1951300,3
+61508,Environmental Engineer,9672000,2
+74091,Social Worker,6551800,7
+78189,Dental Assistant,4323600,3
+34197,Data Scientist,8879800,4
+50497,Dental Hygienist,7996600,3
+17641,Financial Manager,6164800,5
+71576,Physical Therapist,8300900,4
+37092,Insurance Broker,1156100,8
+96236,Medical Billing Specialist,5398400,7
+17649,Brand Manager,8052400,4
+61419,Financial Analyst,8453900,9
+69081,Legal Secretary,9408800,7
+45744,HR Recruiter,875400,1
+61419,UX Designer,7631700,1
+21714,Content Manager,8911400,2
+72421,Dental Assistant,2977600,4
+16959,Medical Billing Specialist,6549400,9
+74091,Market Research Assistant,9054400,5
+40311,Financial Planner,897400,7
+87183,Research Scientist,688500,5
+78858,Social Media Coordinator,5615400,10
+34554,Database Administrator,2713700,9
+30273,Public Relations Manager,8060900,3
+11922,Medical Technologist,7017800,6
+78012,Financial Auditor,5537400,6
+94859,Technical Writer,472900,9
+74091,Occupational Therapist,5620700,8
+72200,IT Administrator,9601500,7
+30273,Architect,411400,5
+51497,Marketing Specialist,8907200,4
+85039,Dental Assistant,3020500,2
+21714,Occupational Health and Safety Specialist,8661900,4
+94859,HR Director,6838500,4
+49332,Data Analyst,7679000,4
+89144,Customer Success Manager,3312500,5
+36732,Biomedical Engineer,7788300,8
+23704,Medical Billing Specialist,8306400,6
+30442,Market Research Manager,7017400,1
+46361,Market Research Assistant,8131200,1
+14519,Health Educator,2599200,7
+44043,Architect,450700,9
+78858,Occupational Therapist,8390600,5
+34103,Business Development Executive,169000,6
+69992,Insurance Claims Adjuster,9096700,3
+13224,Medical Technologist,2751900,8
+73568,Insurance Claims Adjuster,2465400,8
+90216,Business Development Executive,5237900,10
+45102,Software Developer,1096700,8
+75639,Interior Designer,8478600,7
+78012,Project Coordinator,3984400,3
+96978,Nurse Practitioner,5213900,7
+96422,Network Administrator,5373900,1
+55952,Speech-Language Pathologist,4423400,9
+85932,Occupational Therapist Assistant,9859600,5
+48155,Legal Assistant,3869100,4
+48827,User Interface Designer,1925300,7
+10552,Marketing Assistant,474700,6
+26542,Market Research Analyst,806400,5
+74665,Healthcare Administrator,6568400,7
+3117,Network Administrator,2129400,5
+89144,Physical Therapist,4030900,5
+99149,Financial Clerk,3950600,3
+61508,Business Development Executive,5237900,9
+10576,Insurance Broker,6369600,10
+92703,Operations Supervisor,9048700,4
+28350,Healthcare Administrator,3894000,8
+39786,Occupational Health and Safety Specialist,1156600,3
+45319,Medical Laboratory Technician,3521400,3
+15701,Insurance Agent,2913900,8
+55952,Business Development Manager,7370800,4
+96088,Physical Therapy Assistant,4508800,1
+85993,Investment Banker,9499900,9
+74665,Marketing Analyst,7553600,3
+4960,Interior Designer,8478600,2
+26800,Financial Clerk,4082100,10
+33340,Electrician,2199400,4
+74121,Medical Billing Specialist,6549400,8
+43152,Social Media Specialist,6046600,10
+90935,Electrical Engineer,4418800,4
+6544,Public Relations Coordinator,2276700,5
+87183,Legal Counsel,822300,3
+82991,Digital Marketing Specialist,2978700,6
+74121,Operations Analyst,8095200,10
+47377,Marketing Assistant,8042800,8
+94019,Financial Analyst,6459100,7
+64293,Business Consultant,7556700,1
+11922,Occupational Health and Safety Specialist,4490900,9
+21577,HR Manager,1055000,6
+61151,Sales Coordinator,1772000,4
+48155,Investment Advisor,8520800,9
+59703,Customer Service Representative,7436300,8
+50242,Medical Assistant,8480300,6
+3515,Interior Designer,9069700,2
+41536,Medical Assistant,1054600,10
+7912,Occupational Health and Safety Specialist,435500,3
+10552,Systems Engineer,5758500,8
+11273,IT Auditor,3362200,9
+3724,IT Security Specialist,7634700,4
+38802,Environmental Scientist,6808700,10
+3291,Investment Banker,9331300,3
+6544,Recruiting Coordinator,1973800,2
+51497,Operations Coordinator,6669200,7
+37092,Interior Designer,7383600,3
+40311,Digital Marketing Specialist,7814900,10
+85932,Content Manager,4422900,6
+80204,Cybersecurity Analyst,7040800,1
+96088,Business Development Coordinator,172500,9
+21541,Administrative Assistant,9921900,9
+41536,Real Estate Agent,7252100,8
+96236,Cybersecurity Analyst,4913000,10
+69486,Quality Control Inspector,4254500,8
+6544,Regulatory Affairs Specialist,5392400,10
+90216,Content Writer,628700,2
+24444,HR Recruiter,875400,8
+51056,User Experience Researcher,202800,1
+43152,Speech-Language Pathologist,1914100,3
+23704,Recruiting Coordinator,6851500,7
+76953,Dental Assistant,2424600,5
+76953,UX Designer,8202600,10
+10576,Business Development Coordinator,695600,5
+55811,IT Specialist,2272900,8
+64293,Real Estate Agent,3065900,5
+92703,Systems Engineer,2283900,3
+6544,Social Worker,6551800,5
+29863,Operations Coordinator,6669200,7
+83427,Executive Assistant,8875100,1
+65952,Network Security Engineer,7257200,7
+68386,Speech-Language Pathologist,8881300,4
+13250,Multimedia Artist,7680100,9
+46361,Recruiting Coordinator,9799600,10
+73122,Data Entry Specialist,1429400,5
+35871,Human Resources Manager,6457200,6
+7912,Legal Assistant,5118200,5
+83429,Customer Success Manager,5486700,8
+30980,Logistics Manager,7528400,5
+27384,Legal Secretary,2183400,10
+61419,Research Assistant,9749400,1
+90216,Registered Nurse,6801200,1
+10552,Marketing Manager,9781600,5
+13083,Financial Controller,8245200,1
+60146,Account Coordinator,8282700,3
+61151,Supply Chain Coordinator,3822900,6
+7581,HR Generalist,9979200,6
+69486,IT Project Manager,2659700,8
+89144,Event Planner,5614700,2
+61786,Legal Assistant,3840600,4
+81035,IT Support Specialist,1950900,4
+57047,Legal Researcher,6073100,2
+43152,Technical Writer,472900,8
+86480,Product Marketing Manager,7441200,5
+30273,Business Development Executive,9213800,10
+11922,UX Designer,6305400,10
+13083,Digital Marketing Specialist,2978700,3
+30273,Interior Designer,9303500,5
+58073,Nurse Manager,1180300,2
+28350,Sales Support Specialist,562200,9
+73122,IT Specialist,7831800,9
+92703,Data Entry Specialist,1429400,6
+53630,Medical Billing Specialist,9364000,1
+698,Marketing Manager,8123800,10
+74627,Software Developer,1067700,5
+4960,HR Assistant,7645500,7
+48947,Market Research Manager,7017400,1
+16977,Environmental Engineer,9672000,2
+19787,Product Marketing Manager,7841700,6
+51383,Data Analyst,7679000,5
+72421,Event Manager,9050700,5
+42699,Logistics Manager,3373100,2
+73568,Digital Marketing Specialist,6946900,9
+33344,Executive Assistant,4726800,2
+90216,Financial Planner,7519600,4
+47262,Business Development Manager,4579100,4
+29863,Software Engineer,7741900,8
+23595,Environmental Engineer,3210100,9
+72421,Systems Engineer,2283900,8
+91834,Graphic Designer,2286000,7
+64293,Interior Designer,8238800,10
+85993,Business Systems Analyst,5115800,2
+90931,Medical Billing Specialist,8306400,2
+45102,Customer Experience Manager,4673000,2
+32233,Data Entry Specialist,1429400,4
+92029,Corporate Trainer,4778100,2
+84822,Health Educator,145400,9
+74665,Cybersecurity Engineer,9244800,1
+48947,Market Research Analyst,806400,10
+85039,Business Development Manager,1018800,4
+7895,Project Coordinator,5627200,8
+48827,HR Director,5485800,7
+78012,Nurse Practitioner,8818100,10
+30442,Technical Support Specialist,7853600,1
+4960,Data Scientist,8879800,8
+11273,HR Coordinator,8992400,5
+21541,Environmental Engineer,951100,4
+51383,Medical Billing Specialist,8306400,2
+40311,Web Developer,8752000,1
+53452,Operations Manager,3024600,3
+69668,Regulatory Affairs Specialist,5392400,3
+62748,Electrician,6717000,2
+7895,Marketing Analyst,7553600,5
+3515,Medical Assistant,5322200,3
+94019,Medical Billing Specialist,5398400,2
+24485,Social Media Specialist,2191200,5
+24846,Account Coordinator,6487500,9
+18927,Medical Office Manager,8640100,7
+24846,Customer Service Representative,9298200,10
+60146,Civil Engineer,3794700,10
+88826,Dental Assistant,2679500,8
+42492,Project Manager,8090100,3
+36878,Architect,411400,7
+48947,Physical Therapy Assistant,4508800,8
+13729,Cybersecurity Engineer,9244800,7
+5807,Web Developer,5591800,6
+83429,Environmental Engineer,4654900,6
+70357,Graphic Designer,7149000,7
+24444,Public Relations Specialist,8239000,5
+53630,Sales Support Specialist,6241600,8
+13729,Talent Manager,7539300,4
+12839,Legal Secretary,608700,8
+4960,IT Administrator,3730500,6
+7912,Legal Assistant,3869100,2
+21577,Technical Writer,9845400,1
+13224,Real Estate Agent,3065900,9
+51383,IT Specialist,2284600,5
+34103,Environmental Engineer,9672000,4
+61419,Research Scientist,2507700,2
+86112,Financial Analyst,3877500,8
+48947,Business Systems Analyst,2452500,6
+43152,Logistics Manager,3675400,3
+97781,Customer Experience Manager,6233000,4
+85993,Operations Supervisor,3620000,3
+73076,Interior Designer,5913700,6
+30980,Operations Supervisor,3620000,6
+56583,Event Manager,8916600,8
+88826,Interior Designer,8238800,7
+33344,Financial Controller,8245200,1
+53473,Business Development Executive,169000,5
+85993,Real Estate Agent,4757900,1
+70357,Pharmacist,1644700,2
+698,Talent Manager,4583300,8
+73536,Content Manager,8911400,10
+33956,Project Coordinator,3984400,10
+48947,Pharmacist,3974200,4
+65826,Systems Analyst,6666700,2
+85039,Financial Clerk,8278300,9
+13729,Product Marketing Manager,4819300,2
+21714,Customer Service Representative,2102900,4
+11922,Business Consultant,8531000,9
+70357,Financial Controller,3087600,3
+27611,Content Writer,2437700,10
+12839,Data Analyst,6409100,9
+58073,Operations Supervisor,9048700,9
+41536,Dental Assistant,3020500,3
+85993,Event Planner,460500,7
+13005,Registered Nurse,2362300,10
+73076,Compliance Officer,679600,9
+74121,Social Worker,5376300,7
+39178,Supply Chain Analyst,3282000,7
+64293,IT Administrator,9601500,4
+5857,Teacher,9522800,2
+74627,Financial Auditor,9056800,7
+99274,Technical Writer,3753900,7
+2563,Financial Advisor,5669000,6
+85932,Dental Assistant,2679500,9
+51056,Civil Engineer,3794700,8
+83427,Brand Manager,8052400,4
+40287,Network Engineer,7216100,4
+89144,IT Project Manager,9604900,5
+92591,Marketing Assistant,5223200,10
+34197,Health Educator,6594000,5
+61310,Environmental Engineer,3949400,4
+21714,Executive Assistant,4726800,8
+83429,Interior Designer,8238800,5
+73122,Registered Nurse,5237700,5
+73568,Architect,7605700,10
+61419,Insurance Underwriter,1575300,6
+70357,Medical Billing Specialist,6943200,4
+58073,Human Resources Manager,5184300,9
+27384,Digital Content Creator,8778300,9
+27384,Insurance Broker,1156100,4
+83429,Marketing Communications Manager,7969500,3
+47262,Marketing Assistant,474700,3
+51497,Public Relations Specialist,5316500,7
+26800,Operations Manager,3024600,7
+73076,Marketing Assistant,2346000,1
+53473,Sales Support Specialist,6241600,6
+83817,User Interface Designer,6238800,2
+78012,Legal Secretary,4683200,1
+91834,Recruiting Coordinator,6851500,10
+92703,Environmental Scientist,7550200,1
+94859,Biomedical Engineer,443000,10
+33956,Quality Assurance Engineer,6480500,7
+86459,Event Planner,3842500,8
+96088,Healthcare Administrator,6274200,8
+78341,Network Analyst,3346400,5
+62748,Sales Associate,9987900,6
+11273,Investment Banker,9499900,9
+30442,Business Development Manager,7370800,1
+58073,Data Analyst,3988100,6
+48947,Content Manager,4664200,6
+36114,Digital Content Creator,9377000,10
+5807,Brand Strategist,7977100,7
+59703,Marketing Coordinator,7932800,3
+30442,Logistics Coordinator,5814700,4
+61786,Architect,3842500,9
+78341,Marketing Analyst,5934900,3
+30849,Marketing Manager,5806900,1
+28350,Occupational Health and Safety Specialist,8661900,2
+26542,Investment Analyst,5887000,9
+11273,Research Scientist,3314800,7
+23704,Database Administrator,5808200,6
+21577,HR Manager,8366400,2
+30980,Nurse Practitioner,8818100,6
+80204,Web Developer,5591800,9
+62748,Registered Nurse,5825100,4
+36732,Data Entry Specialist,2728600,5
+15701,Systems Administrator,4799000,7
+55811,Production Supervisor,4184500,9
+13729,IT Administrator,3730500,2
+75068,Event Manager,805500,9
+99820,Customer Experience Manager,1252800,9
+70357,Investment Banker,9499900,7
+42492,IT Security Analyst,1761400,7
+15701,Technical Support Specialist,7853600,10
+61151,Graphic Designer,534700,4
+69081,Operations Manager,4341800,9
+48827,Production Supervisor,6683100,7
+34554,Medical Assistant,8717600,8
+61310,Nurse Practitioner,8818100,5
+78858,Event Planner,2816700,7
+56583,Registered Nurse,6125600,2
+62748,Business Analyst,625200,2
+61151,Occupational Therapist Assistant,5650800,6
+36878,Supply Chain Coordinator,7624600,9
+36114,Public Relations Manager,3386700,5
+90935,Insurance Claims Adjuster,6503200,3
+48947,Interior Decorator,4481400,6
+30849,Marketing Communications Manager,3169000,1
+96236,Insurance Agent,2913900,2
+28350,Retail Manager,8462400,3
+99149,Brand Strategist,6809200,6
+86964,Legal Secretary,9264800,2
+30442,Human Resources Manager,9483500,10
+55952,Production Supervisor,4184500,4
+49332,HR Recruiter,8285400,4
+69992,Recruiting Coordinator,8078700,7
+3515,Marketing Manager,5806900,9
+99274,Event Coordinator,2119300,9
+66809,Product Marketing Manager,6799400,8
+3724,Network Engineer,7216100,4
+69668,Systems Engineer,5758500,4
+11273,Operations Manager,8947500,1
+34554,Financial Clerk,3950600,8
+16365,Content Manager,4422900,3
+37092,Dental Hygienist,7996600,10
+32233,Network Security Engineer,7257200,6
+33314,Database Administrator,5808200,5
+94019,Insurance Underwriter,787700,1
+34197,Nurse Practitioner,4573800,5
+23595,Tax Accountant,9827800,2
+96978,Cybersecurity Analyst,4913000,9
+38802,Regulatory Affairs Specialist,9270600,5
+43152,Sales Coordinator,1772000,6
+99149,IT Security Analyst,7189100,6
+61151,Data Entry Specialist,1429400,3
+26542,Business Development Executive,5237900,9
+37092,Registered Nurse,6125600,2
+73122,Nurse Practitioner,4573800,6
+20821,Insurance Agent,9808700,2
+27839,Network Administrator,5373900,6
+27611,Business Development Executive,5289800,9
+73568,Sales Coordinator,1772000,6
+30168,Marketing Communications Manager,6230000,8
+16365,HR Generalist,9979200,9
+21577,Business Development Executive,490800,10
+56583,Social Media Specialist,7353900,1
+3117,Business Development Manager,3794500,7
+5807,Interior Decorator,3086400,5
+99274,IT Manager,836900,5
+6544,Accountant,5523100,2
+55811,Cybersecurity Engineer,5904800,6
+3724,Data Entry Specialist,1033900,7
+62748,Systems Administrator,9746100,1
+86459,Legal Secretary,608700,6
+57047,Health Educator,2599200,9
+61419,Financial Analyst,5583400,5
+19056,IT Security Specialist,7634700,4
+57319,Technical Writer,9845400,2
+26800,Content Manager,8911400,5
+36732,Talent Manager,8788500,8
+87183,Legal Researcher,5936200,1
+85039,IT Support Specialist,6542900,6
+55811,Investment Advisor,8520800,8
+95439,Legal Secretary,9264800,2
+92703,Medical Laboratory Technician,8523500,10
+74627,Network Analyst,319900,7
+27839,Talent Manager,6843500,5
+57047,Medical Technologist,2751900,9
+33340,Insurance Underwriter,576700,3
+38390,Account Manager,8432400,1
+13083,Talent Manager,7539300,2
+16365,Social Worker,2264300,7
+30442,Market Analyst,7756200,3
+49332,Project Coordinator,5627200,7
+51056,Market Research Manager,189200,2
+49332,Business Development Coordinator,172500,8
+13083,Network Analyst,3346400,7
+67360,Multimedia Artist,9743300,6
+87183,HR Manager,8366400,4
+27611,Financial Risk Analyst,6025500,5
+55952,IT Security Analyst,1761400,4
+87183,Supply Chain Manager,9623700,6
+50497,Systems Engineer,2283900,7
+11273,Financial Analyst,503400,3
+29425,Marketing Communications Manager,3067500,2
+67443,Software Engineer,6936900,5
+92029,Customer Experience Manager,6233000,5
+29425,Environmental Scientist,6808700,7
+71576,Logistics Coordinator,8666800,3
+28350,SEO Specialist,8355600,8
+38562,Systems Administrator,7141800,3
+85932,Insurance Broker,6369600,9
+78341,Business Systems Analyst,6021800,3
+24846,HR Specialist,1460500,9
+78607,Supply Chain Analyst,3282000,8
+3291,Accountant,5729800,3
+86812,HR Manager,1055000,8
+42699,Nurse Manager,1180300,6
+64293,Talent Acquisition Specialist,6303600,10
+53473,Digital Content Creator,8778300,3
+45102,Operations Analyst,2240100,5
+62748,Marketing Assistant,5862100,6
+11922,SEO Specialist,8270800,3
+26800,Customer Experience Manager,189300,9
+21577,Sales Manager,1027200,10
+36114,Data Entry Specialist,2728600,5
+76953,Environmental Scientist,1070400,7
+85932,Business Development Executive,490800,5
+45744,Public Relations Coordinator,7088900,1

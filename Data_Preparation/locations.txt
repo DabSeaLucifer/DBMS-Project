@@ -1,0 +1,200 @@
+1. New York City, USA
+2. Paris, France
+3. Tokyo, Japan
+4. London, England
+5. Sydney, Australia
+6. Rome, Italy
+7. Dubai, UAE
+8. Rio de Janeiro, Brazil
+9. Shanghai, China
+10. Cairo, Egypt
+11. Moscow, Russia
+12. Los Angeles, USA
+13. Mumbai, India
+14. Barcelona, Spain
+15. Berlin, Germany
+16. Cape Town, South Africa
+17. Bangkok, Thailand
+18. Istanbul, Turkey
+19. Toronto, Canada
+20. Buenos Aires, Argentina
+21. Seoul, South Korea
+22. Amsterdam, Netherlands
+23. Hong Kong, China
+24. Athens, Greece
+25. Singapore City, Singapore
+26. Vienna, Austria
+27. Mexico City, Mexico
+28. Prague, Czech Republic
+29. San Francisco, USA
+30. Florence, Italy
+31. Dublin, Ireland
+32. Kyoto, Japan
+33. Stockholm, Sweden
+34. Budapest, Hungary
+35. Vancouver, Canada
+36. Copenhagen, Denmark
+37. Lima, Peru
+38. Marrakech, Morocco
+39. Edinburgh, Scotland
+40. Lisbon, Portugal
+41. Auckland, New Zealand
+42. Saint Petersburg, Russia
+43. Kuala Lumpur, Malaysia
+44. Helsinki, Finland
+45. Zurich, Switzerland
+46. Warsaw, Poland
+47. Brasília, Brazil
+48. Oslo, Norway
+49. Reykjavik, Iceland
+50. Seville, Spain
+51. Santiago, Chile
+52. Venice, Italy
+53. Beirut, Lebanon
+54. Guangzhou, China
+55. Abu Dhabi, UAE
+56. Chengdu, China
+57. Krakow, Poland
+58. Nice, France
+59. Brussels, Belgium
+60. Ho Chi Minh City, Vietnam
+61. Bogotá, Colombia
+62. Xi'an, China
+63. Philadelphia, USA
+64. Riyadh, Saudi Arabia
+65. Chiang Mai, Thailand
+66. Bologna, Italy
+67. Salzburg, Austria
+68. Jaipur, India
+69. Adelaide, Australia
+70. Savannah, USA
+71. Porto, Portugal
+72. Tel Aviv, Israel
+73. Charleston, USA
+74. Manchester, England
+75. Doha, Qatar
+76. Abuja, Nigeria
+77. Lyon, France
+78. Hyderabad, India
+79. Dar es Salaam, Tanzania
+80. Marseille, France
+81. Bucharest, Romania
+82. Nairobi, Kenya
+83. Cologne, Germany
+84. Denver, USA
+85. Baltimore, USA
+86. Washington D.C., USA
+87. Detroit, USA
+88. Perth, Australia
+89. Pittsburgh, USA
+90. Minneapolis, USA
+91. Phoenix, USA
+92. Dallas, USA
+93. Houston, USA
+94. Atlanta, USA
+95. Miami, USA
+96. Boston, USA
+97. Seattle, USA
+98. San Antonio, USA
+99. Austin, USA
+100. Nashville, USA
+101. Portland, USA
+102. Las Vegas, USA
+103. Indianapolis, USA
+104. San Jose, USA
+105. Columbus, USA
+106. Charlotte, USA
+107. Jacksonville, USA
+108. Memphis, USA
+109. Milwaukee, USA
+110. Sacramento, USA
+111. Oklahoma City, USA
+112. Albuquerque, USA
+113. Tucson, USA
+114. Fresno, USA
+115. Long Beach, USA
+116. Kansas City, USA
+117. Mesa, USA
+118. Virginia Beach, USA
+119. Colorado Springs, USA
+120. Raleigh, USA
+121. Omaha, USA
+122. Oakland, USA
+123. Tulsa, USA
+124. Cleveland, USA
+125. Wichita, USA
+126. Arlington, USA
+127. New Orleans, USA
+128. Bakersfield, USA
+129. Tampa, USA
+130. Honolulu, USA
+131. Anaheim, USA
+132. Aurora, USA
+133. Santa Ana, USA
+134. St. Louis, USA
+135. Riverside, USA
+136. Corpus Christi, USA
+137. Lexington, USA
+138. Stockton, USA
+139. Anchorage, USA
+140. Cincinnati, USA
+141. St. Paul, USA
+142. Toledo, USA
+143. Newark, USA
+144. Greensboro, USA
+145. Plano, USA
+146. Henderson, USA
+147. Lincoln, USA
+148. Buffalo, USA
+149. Fort Wayne, USA
+150. Jersey City, USA
+151. Chula Vista, USA
+152. Orlando, USA
+153. St. Petersburg, USA
+154. Norfolk, USA
+155. Chandler, USA
+156. Laredo, USA
+157. Madison, USA
+158. Durham, USA
+159. Lubbock, USA
+160. Winston-Salem, USA
+161. Garland, USA
+162. Glendale, USA
+163. Hialeah, USA
+164. Reno, USA
+165. Baton Rouge, USA
+166. Irvine, USA
+167. Chesapeake, USA
+168. Irving, USA
+169. Scottsdale, USA
+170. North Las Vegas, USA
+171. Fremont, USA
+172. Gilbert, USA
+173. San Bernardino, USA
+174. Boise, USA
+175. Birmingham, USA
+176. Spokane, USA
+177. Richmond, USA
+178. Des Moines, USA
+179. Modesto, USA
+180. Fayetteville, USA
+181. Tacoma, USA
+182. Oxnard, USA
+183. Fontana, USA
+184. Moreno Valley, USA
+185. Huntington Beach, USA
+186. Yonkers, USA
+187. Melbourne, Australia
+188. Oslo, Norway
+189. Budapest, Hungary
+190. Nairobi, Kenya
+191. Munich, Germany
+192. Rio de Janeiro, Brazil
+193. Auckland, New Zealand
+194. Seoul, South Korea
+195. Cairo, Egypt
+196. Buenos Aires, Argentina
+197. Toronto, Canada
+198. Madrid, Spain
+199. Moscow, Russia
+200. Cape Town, South Africa

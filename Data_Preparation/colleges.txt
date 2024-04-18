@@ -1,0 +1,50 @@
+1. Birla Institute of Technology and Science (BITS Pilani) - Pilani
+2. Indian Institutes of Management (IIMs) - Various locations
+3. All India Institute of Medical Sciences (AIIMS) - New Delhi
+4. National Institute of Fashion Technology (NIFT) - Various locations
+5. National Law School of India University (NLSIU) - Bengaluru
+6. St. Stephen's College - New Delhi
+7. Lady Shri Ram College for Women (LSR) - New Delhi
+8. Indian Statistical Institute (ISI) - Kolkata
+9. Xavier Labour Relations Institute (XLRI) - Jamshedpur
+10. Tata Institute of Social Sciences (TISS) - Mumbai
+11. Delhi Technological University (DTU) - New Delhi
+12. National Institute of Design (NID) - Various locations
+13. Indian Institutes of Technology (IITs) - Various locations
+14. National Institute of Technology (NITs) - Various locations
+15. Jawaharlal Nehru University (JNU) - New Delhi
+16. Indian School of Business (ISB) - Hyderabad
+17. Symbiosis International University - Pune
+18. Christ University - Bengaluru
+19. Manipal Academy of Higher Education - Manipal
+20. Indian Institute of Science (IISc) - Bengaluru
+21. Banaras Hindu University (BHU) - Varanasi
+22. Aligarh Muslim University (AMU) - Aligarh
+23. Indian Institute of Foreign Trade (IIFT) - New Delhi
+24. National Institute of Fashion Technology (NIFT) - New Delhi
+25. Indian Institute of Technology (Banaras Hindu University) - Varanasi
+26. Indian Institute of Management (Lucknow) - Lucknow
+27. Indian Institute of Management (Ahmedabad) - Ahmedabad
+28. Indian Institute of Technology (Bombay) - Mumbai
+29. Indian Institute of Management (Kolkata) - Kolkata
+30. Indian Institute of Technology (Madras) - Chennai
+31. Indian Institute of Management (Kozhikode) - Kozhikode
+32. Indian Institute of Technology (Delhi) - New Delhi
+33. Indian Institute of Management (Indore) - Indore
+34. Indian Institute of Technology (Kanpur) - Kanpur
+35. Indian Institute of Technology (Roorkee) - Roorkee
+36. National Institute of Technology (Trichy) - Tiruchirappalli
+37. National Institute of Technology (Warangal) - Warangal
+38. National Institute of Technology (Surathkal) - Mangaluru
+39. National Institute of Technology (Calicut) - Kozhikode
+40. National Institute of Technology (Jaipur) - Jaipur
+41. Indian Institute of Science Education and Research (IISER) - Various locations
+42. Presidency University - Kolkata
+43. Indian Statistical Institute (ISI) - Bengaluru
+44. Loyola College - Chennai
+45. Miranda House - New Delhi
+46. Loyola College - Chennai
+47. Hansraj College - New Delhi
+48. National Law University (NLU) - Various locations
+49. Indian Institute of Technology (Bhubaneswar) - Bhubaneswar
+50. Indian Institute of Technology (Guwahati) - Guwahati
